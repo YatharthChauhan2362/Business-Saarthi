@@ -1,2 +1,2 @@
-# Automation-Suggestion-to-Business
-Microsoft Ambassador’s Project
+# Business Saarthi
+Microsoft Ambassador’s Project: Automation Suggestion to Business
