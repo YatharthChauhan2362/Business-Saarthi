@@ -1,0 +1,2766 @@
+{
+    "AI-Infinity": {
+        "Categories :": {
+            "AI Detection:": {
+                "BusterAI": {
+                    "url": "https://aiinfinity.blogspot.com/p/ai-detection-busterai.html",
+                    "definition": "Is your text written by a human or AI? Uncover the truth with BusterAI.",
+                    "features": ""
+                },
+                "Detect GPT": {
+                    "url": "https://aiinfinity.blogspot.com/p/ai-detection-detect-gpt-chrome-extension.html",
+                    "definition": "Find out if the pages you browse contain AI-generated content.",
+                    "features": ""
+                },
+                "GLTR AI Detection": {
+                    "url": "https://aiinfinity.blogspot.com/p/ai-detectiongltr.html",
+                    "definition": "Catching a Unicorn with GLTR: A tool to detect automatically generated text.",
+                    "features": ""
+                },
+                "GPTZero": {
+                    "url": "https://aiinfinity.blogspot.com/p/ai-detectiongptzero.html",
+                    "definition": "GPTZero turns the very technologies used to build ChatGPT around \u2014 to detect AI",
+                    "features": ""
+                },
+                "OpenAI Classifier": {
+                    "url": "https://aiinfinity.blogspot.com/p/ai-detectionopenai-classifierai.html",
+                    "definition": "A classifier trained to distinguish between AI-written and human-written text.",
+                    "features": ""
+                },
+                "Originaltiy AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/ai-detectionoriginality-ai.html",
+                    "definition": "A Plagiarism Checker and AI Detector Built for Serious Content Publishers.",
+                    "features": ""
+                },
+                "Writer": {
+                    "url": "https://aiinfinity.blogspot.com/p/ai-detectionwriter.html",
+                    "definition": "AI Content Detector!",
+                    "features": ""
+                },
+                "ZeroGPT": {
+                    "url": "https://aiinfinity.blogspot.com/p/ai-detectionzerogpt.html",
+                    "definition": "Detect chatGPT content for Free, simple way & High accuracy. OpenAI detection tool.",
+                    "features": ""
+                }
+            },
+            "Audio:": {
+                "Adobe Audition": {
+                    "url": "https://aiinfinity.blogspot.com/p/audioadobe-audition.html",
+                    "definition": "Create, mix and design sound effects with the industry\u2019s best digital audio editing software.",
+                    "features": ""
+                },
+                "Adobe Podcast": {
+                    "url": "https://aiinfinity.blogspot.com/p/audioadobe-podcast.html",
+                    "definition": "AI-powered audio recording and editing, all on the web based!",
+                    "features": ""
+                },
+                "AI Mastering": {
+                    "url": "https://aiinfinity.blogspot.com/p/audioai-mastering.html",
+                    "definition": "AI Mastering is a tool that can easily improve your music.It is possible to balance the loudness and the dynamic range by our powerful limiter.",
+                    "features": ""
+                },
+                "Audio Alter": {
+                    "url": "https://aiinfinity.blogspot.com/p/audioaudio-alter.html",
+                    "definition": "A collection of easy-to-use web tools for all your audio files.",
+                    "features": ""
+                },
+                "Audo Studio": {
+                    "url": "https://aiinfinity.blogspot.com/p/audioaudo-studio.html",
+                    "definition": "Automatically removes background noise and enhances your speech using the latest advancement in audio processing and artificial intelligence. Clean your audio in seconds not hours!",
+                    "features": ""
+                },
+                "Cleanvoice": {
+                    "url": "https://aiinfinity.blogspot.com/p/audiocleanvoice.html",
+                    "definition": "Cleanvoice is an artificial intelligence which removes filler sounds, stuttering and mouth sounds from your podcast or audio recording.",
+                    "features": ""
+                },
+                "Krisp": {
+                    "url": "https://aiinfinity.blogspot.com/p/audiokrisp.html",
+                    "definition": "Krisp\u2019s AI removes background voices, noises and echo from all your calls, giving you peace of mind.",
+                    "features": ""
+                },
+                "Lalal AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/audiolalal-ai.html",
+                    "definition": "Extract vocal, accompaniment and various instruments from any audio.",
+                    "features": ""
+                },
+                "Nonoisy": {
+                    "url": "https://aiinfinity.blogspot.com/p/audiononoisy.html",
+                    "definition": "AI for podcast audio editing.",
+                    "features": ""
+                },
+                "Podcast AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/audiopodcast-ai.html",
+                    "definition": "The AI-generated podcast.",
+                    "features": ""
+                },
+                "Podcastle": {
+                    "url": "https://aiinfinity.blogspot.com/p/audiopodcastle.html",
+                    "definition": "Studio-quality recording, AI-powered editing, and seamless exporting \u2013 all in a single web-based platform.",
+                    "features": ""
+                },
+                "VoiceMod": {
+                    "url": "https://aiinfinity.blogspot.com/p/audiovoicemod.html",
+                    "definition": "Free Real-Time Voice Changer.",
+                    "features": ""
+                }
+            },
+            "Avatars:": {
+                "AI Time Machine": {
+                    "url": "https://aiinfinity.blogspot.com/p/avatarsai-time-machine.html",
+                    "definition": "Create and share mind-blowing AI avatars.",
+                    "features": ""
+                },
+                "AIVatar": {
+                    "url": "https://aiinfinity.blogspot.com/p/avatarsaivatar.html",
+                    "definition": "Create unlimited unique AI-generated magic avatars of yourself Upload a few sample photos of yourself and get hundreds of themed avatars generated by AI.",
+                    "features": ""
+                },
+                "Anime AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/avatarsanimeai.html",
+                    "definition": "Become an\u00a0anime hero\u00a0with AI.",
+                    "features": ""
+                },
+                "Arti Pics": {
+                    "url": "https://aiinfinity.blogspot.com/p/avatarsartipics.html",
+                    "definition": "Arti.pics is AI-powered avatar maker. It allows you to upload a few photos of yourself and generates more than 200 cool-looking avatars in different styles.",
+                    "features": ""
+                },
+                "Avatar AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/avatarsavatar-ai.html",
+                    "definition": "Create your own Al-generated avatars.",
+                    "features": ""
+                },
+                "Avatarify": {
+                    "url": "https://aiinfinity.blogspot.com/p/avatarsavatarify.html",
+                    "definition": "Elevate your online\u00a0presence\u00a0with personalized avatars.",
+                    "features": ""
+                },
+                "Beb": {
+                    "url": "https://aiinfinity.blogspot.com/p/avatarsbeb.html",
+                    "definition": "Make your own avatars using Al.",
+                    "features": ""
+                },
+                "Dreampic AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/avatarsdreampic-ai.html",
+                    "definition": "Take your personal brand to the next level. Create stunning, personalized images of yourself in a variety of styles.",
+                    "features": ""
+                },
+                "Gemsouls": {
+                    "url": "https://aiinfinity.blogspot.com/p/avatarsgemsouls.html",
+                    "definition": "Gemsouls is an artificial intelligence platform powering virtual characters and their connections to the real world.",
+                    "features": ""
+                },
+                "HairGen AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/avatarshairgenai.html",
+                    "definition": "See your hairline lowered with AI right now.",
+                    "features": ""
+                },
+                "HairStyle AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/avatarshairstyleai.html",
+                    "definition": "Try new hairstyles\nwith the power of AI.",
+                    "features": ""
+                },
+                "HeroPack": {
+                    "url": "https://aiinfinity.blogspot.com/p/avatarsheropack.html",
+                    "definition": "Make gaming avatars with AI, inspired by video games.",
+                    "features": ""
+                },
+                "In3D": {
+                    "url": "https://aiinfinity.blogspot.com/p/avatarsin3d.html",
+                    "definition": "Turn people into realistic avatars,Realistic and customizable avatars created with a phone camera within a minute for your metaverse, game, or app.",
+                    "features": ""
+                },
+                "Lensa": {
+                    "url": "https://aiinfinity.blogspot.com/p/avatarslensa.html",
+                    "definition": "Transform your selfies into customised portraits.",
+                    "features": ""
+                },
+                "Magic AI Avatars": {
+                    "url": "https://aiinfinity.blogspot.com/p/avatarsmagicai-avatar.html",
+                    "definition": "Get 200+ custom avatars made by artificial intelligence.",
+                    "features": ""
+                },
+                "Neural": {
+                    "url": "https://aiinfinity.blogspot.com/p/avatarsneural.html",
+                    "definition": "Generate Any image or avatar of yourself using AI.",
+                    "features": ""
+                },
+                "PhotoAI": {
+                    "url": "https://aiinfinity.blogspot.com/p/avatarsphotoai.html",
+                    "definition": "Create AI photos of yourself.",
+                    "features": ""
+                },
+                "Photoshot": {
+                    "url": "https://aiinfinity.blogspot.com/p/avatarsphotoshot.html",
+                    "definition": "Generate avatars\u00a0that perfectly capture\u00a0your unique style.",
+                    "features": ""
+                },
+                "PictoDream": {
+                    "url": "https://aiinfinity.blogspot.com/p/avatarspictodream.html",
+                    "definition": "Generate any images of yourself (or another person) in any style or setting using a simple text description.",
+                    "features": ""
+                },
+                "Profile Picture AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/avatarsprofile-picture-ai.html",
+                    "definition": "Create your perfect\u00a0profile picture\u00a0with AI.\nChoose Your Character, Create Magical Avatars.",
+                    "features": ""
+                },
+                "ReadyPlayer Me": {
+                    "url": "https://aiinfinity.blogspot.com/p/avatarsreadyplayer-me.html",
+                    "definition": "Cross-game Avatar Platform for the Metaverse.",
+                    "features": ""
+                },
+                "Reface": {
+                    "url": "https://aiinfinity.blogspot.com/p/avatarsreface.html",
+                    "definition": "express yourself online with ai avatar.",
+                    "features": ""
+                },
+                "Unrealme": {
+                    "url": "https://aiinfinity.blogspot.com/p/avatarsunrealme.html",
+                    "definition": "Get AI generated images of you.",
+                    "features": ""
+                },
+                "Vana": {
+                    "url": "https://aiinfinity.blogspot.com/p/avatarsvana.html",
+                    "definition": "\u201cPortrait\u201d by Vana is a generative art studio that can create self-portraits of you in infinite styles.",
+                    "features": ""
+                }
+            },
+            "Chat:": {
+                "AskNow": {
+                    "url": "https://aiinfinity.blogspot.com/p/chatasknow.html",
+                    "definition": "Ask Anyone, Anything.",
+                    "features": ""
+                },
+                "AskThee": {
+                    "url": "https://aiinfinity.blogspot.com/p/chataskthee.html",
+                    "definition": "Ever wanted to ask a question to a big thinker, artist or scientist? now is your chance.",
+                    "features": ""
+                },
+                "Chai": {
+                    "url": "https://aiinfinity.blogspot.com/p/chatchai.html",
+                    "definition": "Chat with AI.",
+                    "features": ""
+                },
+                "Character AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/chatcharacter-ai.html",
+                    "definition": "Character AI lets you create Characters and talk to them.",
+                    "features": ""
+                },
+                "Context": {
+                    "url": "https://aiinfinity.blogspot.com/p/chatcontext.html",
+                    "definition": "Context is your AI-powered assistant for learning from your favorite websites, e-books, podcasts, videos, and more.",
+                    "features": ""
+                },
+                "Didi AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/chatdidi-ai.html",
+                    "definition": "Didi\u00a0AI is a\u00a0digital diviner\u00a0that can be consulted to answer questions based on artificial intelligence.",
+                    "features": ""
+                },
+                "Hello History": {
+                    "url": "https://aiinfinity.blogspot.com/p/chathello-history.html",
+                    "definition": "Chat with AI generated historical figures.",
+                    "features": ""
+                },
+                "Poe": {
+                    "url": "https://aiinfinity.blogspot.com/p/chatpoe.html",
+                    "definition": "Quora\u2019s chatbot including Sage, Dragonfly, ChatGPT & Claude!",
+                    "features": ""
+                }
+            },
+            "Coding Tools:": {
+                "Adrenaline": {
+                    "url": "https://aiinfinity.blogspot.com/p/coding-adrenaline.html",
+                    "definition": "Fix your broken code in seconds! Stop pasting error messages into Google. Use AI to debug your code and teach you along the way.",
+                    "features": ""
+                },
+                "AI CLI": {
+                    "url": "https://aiinfinity.blogspot.com/p/codingai-cli.html",
+                    "definition": "Get answers for CLI commands from GPT3 right from your terminal.",
+                    "features": ""
+                },
+                "AI code reviewer": {
+                    "url": "https://aiinfinity.blogspot.com/p/codingai-code-reviewer.html",
+                    "definition": "Reviews your code.",
+                    "features": ""
+                },
+                "Amazon CodeWhisperer": {
+                    "url": "https://aiinfinity.blogspot.com/p/codingamazon-codewhisperer.html",
+                    "definition": "Accelerate application development with automatic code recommendations based on the code and comments in your IDE.",
+                    "features": ""
+                },
+                "AskCodi": {
+                    "url": "https://aiinfinity.blogspot.com/p/codingaskcodi.html",
+                    "definition": "AskCodi is made keeping in mind the needs of developers to avoid redundant tasks, therefore resulting in less time spent on development and more time to execute.",
+                    "features": ""
+                },
+                "Bito": {
+                    "url": "https://aiinfinity.blogspot.com/p/codingbito.html",
+                    "definition": "Generate Amazing Code/code comments,10x faster with ChatGPT.",
+                    "features": ""
+                },
+                "BlackBox AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/codingblackbox-ai.html",
+                    "definition": "BLACKBOX is your AI-Powered Coding Assistant so you can {Code} 10X Faster and Better.",
+                    "features": ""
+                },
+                "Buildt": {
+                    "url": "https://aiinfinity.blogspot.com/p/codingblackdt.html",
+                    "definition": "Find, Generate & Replace Anything In Your Code.",
+                    "features": ""
+                },
+                "Clippy AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/codingclippy-ai.html",
+                    "definition": "Clippy AI is a simple wrapper around OpenAI Codex. It allows you to send Codex your current file as well as some instructions in plain-text English.",
+                    "features": ""
+                },
+                "Clippy VSCode": {
+                    "url": "https://aiinfinity.blogspot.com/p/codingclippy-vscode.html",
+                    "definition": "It shows you your mistakes! It\u2019s annoying! it moves!",
+                    "features": ""
+                },
+                "Code Snippets": {
+                    "url": "https://aiinfinity.blogspot.com/p/codingcode-snippets.html",
+                    "definition": "Turn Your Questions Into Code, with ChatGPT!",
+                    "features": ""
+                },
+                "CodeSquire": {
+                    "url": "https://aiinfinity.blogspot.com/p/codingcode-squire.html",
+                    "definition": "Turn your thoughts into code! AI code writing assistant for data scientists, engineers, and analysts.Get code completions and suggestions as you type.",
+                    "features": ""
+                },
+                "CodeAssist": {
+                    "url": "https://aiinfinity.blogspot.com/p/codingcodeassist.html",
+                    "definition": "CodeAssist is an AI assistant / chatbot / copilot for programming. It generates, changes, completes the code and answers questions.",
+                    "features": ""
+                },
+                "CodeGeeX": {
+                    "url": "https://aiinfinity.blogspot.com/p/codingcodegeex.html",
+                    "definition": "A large-scale multilingual code generation model with 13 billion parameters, pre-trained on a large code corpus of more than 20 programming languages. CodeGeeX supports 15+ programming languages for both code generation and translation. CodeGeeX is open source.",
+                    "features": ""
+                },
+                "Codeium": {
+                    "url": "https://aiinfinity.blogspot.com/p/codingcodeium.html",
+                    "definition": "The modern coding superpower.",
+                    "features": ""
+                },
+                "Codex": {
+                    "url": "https://aiinfinity.blogspot.com/p/codingcodex.html",
+                    "definition": "Codex interpret simple commands in natural language and execute them on the user\u2019s behalf\u2014making it possible to build a natural language interface to existing applications.",
+                    "features": ""
+                },
+                "Continual": {
+                    "url": "https://aiinfinity.blogspot.com/p/codingcontinual.html",
+                    "definition": "Continual is an operational AI platform for the modern data stack. Build predictive models that never stop improving without complex engineering.",
+                    "features": ""
+                },
+                "Copilot": {
+                    "url": "https://aiinfinity.blogspot.com/p/codingcopilot.html",
+                    "definition": "GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.",
+                    "features": ""
+                },
+                "Debuild": {
+                    "url": "https://aiinfinity.blogspot.com/p/codingdebuild.html",
+                    "definition": "Code your web app in seconds.",
+                    "features": ""
+                },
+                "Duino Code Generator": {
+                    "url": "https://aiinfinity.blogspot.com/p/codingduino-code-generator.html",
+                    "definition": "Let\u2019s generate code for Arduino.",
+                    "features": ""
+                },
+                "Fig AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/codingfig-ai.html",
+                    "definition": "Translate English \u2192 Bash commands in any shell.",
+                    "features": ""
+                },
+                "Fronty": {
+                    "url": "https://aiinfinity.blogspot.com/p/codingfronty.html",
+                    "definition": "Get the HTML CSS code of your project in no time! AI-Powered tool to create a website in few minutes.Convert image to HTML CSS World\u2019s first image to HTML converter.",
+                    "features": ""
+                },
+                "Hey,GitHub": {
+                    "url": "https://githubnext.com/projects/hey-github/",
+                    "definition": "Write code without the keyboard! Difficulty typing? Use your voice to code without spelling things out by talking with GitHub Copilot.",
+                    "features": ""
+                },
+                "Kodezi AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/codingkodezi-ai.html",
+                    "definition": "Let Kodezi auto generate/correct/comment/optimize your code in seconds.",
+                    "features": ""
+                },
+                "Lookup": {
+                    "url": "https://aiinfinity.blogspot.com/p/codinglookup.html",
+                    "definition": "Import your data, ask questions in plain english, and get answers instantly with the power of AI.",
+                    "features": ""
+                },
+                "Maverick": {
+                    "url": "https://aiinfinity.blogspot.com/p/codingmaverick.html",
+                    "definition": "Maverick focuses on delivering the best code completion on your local machine without reaching out to any APIs or knowledge bases.",
+                    "features": ""
+                },
+                "Mutable": {
+                    "url": "https://aiinfinity.blogspot.com/p/codingmutable.html",
+                    "definition": "Build fast with production quality using AI Accelerated Software Development.",
+                    "features": ""
+                },
+                "Programming helper": {
+                    "url": "https://aiinfinity.blogspot.com/p/codingprogramming-helper.html",
+                    "definition": "Generate code just by typing a text description. AI will create the code for you. Test it now",
+                    "features": ""
+                },
+                "Replit": {
+                    "url": "https://aiinfinity.blogspot.com/p/codingreplit.html",
+                    "definition": "Build software collaboratively from anywhere in the world, on any device, without spending a second on setup.",
+                    "features": ""
+                },
+                "SourceAI": {
+                    "url": "https://aiinfinity.blogspot.com/p/codingsourceai.html",
+                    "definition": "AI-Powered Code Generator.",
+                    "features": ""
+                },
+                "Spellbox": {
+                    "url": "https://aiinfinity.blogspot.com/p/codingspellbox.html",
+                    "definition": "SpellBox uses artificial intelligence to create the code you need from simple prompts. Solve your toughest programming problems with AI in seconds!",
+                    "features": ""
+                },
+                "Stenography": {
+                    "url": "https://aiinfinity.blogspot.com/p/codingstenography.html",
+                    "definition": "Finally. Automatic Documentation.",
+                    "features": ""
+                },
+                "Tabnine": {
+                    "url": "https://aiinfinity.blogspot.com/p/codingtabnine.html",
+                    "definition": "AI assistant for software developers Code faster with whole-line & full-function code completions.",
+                    "features": ""
+                },
+                "Teleporthq": {
+                    "url": "https://aiinfinity.blogspot.com/p/coding-teleporthq.html",
+                    "definition": "TeleportHQ is the collaborative front-end platform with integrated UI development and content modelling tools. A powerful visual builder to create and publish your headless static websites instantly.",
+                    "features": ""
+                },
+                "Testkit": {
+                    "url": "https://aiinfinity.blogspot.com/p/codingtestkit.html",
+                    "definition": "Browser extension to record entire tests in seconds, run them in the Testkit dashboard or your CI pipeline, and see how Testkit automagically fixes tests for you when they break.",
+                    "features": ""
+                },
+                "What the diff": {
+                    "url": "https://aiinfinity.blogspot.com/p/codingwhat-diff.html",
+                    "definition": "Your AI-powered code review assistant.",
+                    "features": ""
+                }
+            },
+            "CopyWriting:": {
+                "Adcreative AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/copywritingadcreative-ai.html",
+                    "definition": "Generate conversion focused ad creatives and social media post creatives in a matter of seconds using Artificial Intelligence.",
+                    "features": ""
+                },
+                "Anyword": {
+                    "url": "https://aiinfinity.blogspot.com/p/copywritinganyword.html",
+                    "definition": "Get more conversions and drive more sales with an AI writer that generates and optimizes your copy. Powerful predictive analytics tells you what works before you publish.",
+                    "features": ""
+                },
+                "ArticleForge": {
+                    "url": "https://aiinfinity.blogspot.com/p/copywritingarticleforge.html",
+                    "definition": "Using advanced artificial intelligence and deep learning, Article Forge writes entire 1,500+ word articles automatically.",
+                    "features": ""
+                },
+                "Bertha AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/copywritingbertha-ai.html",
+                    "definition": "The copywriting assistant for WordPress and beyond.",
+                    "features": ""
+                },
+                "Botowski": {
+                    "url": "https://aiinfinity.blogspot.com/p/copywritingbotowski.html",
+                    "definition": "Botowski is an AI content generator that can be used by copywriters, business owners, and others to create high-quality content. It can create articles, blog posts, and even essays on a variety of topics. Botowski is designed to be user-friendly; all you need to do is input a topic, and it will take care of the rest.",
+                    "features": ""
+                },
+                "Closers Copy": {
+                    "url": "https://aiinfinity.blogspot.com/p/copywritingclosers-copy.html",
+                    "definition": "Leverage the secrets of the most powerful copy in the world\u2026and let your copywriting robot bring them to life!",
+                    "features": ""
+                },
+                "Contents": {
+                    "url": "https://aiinfinity.blogspot.com/p/copywritingcontents.html",
+                    "definition": "The Generative AI platform to make content creation easy and built for performance.",
+                    "features": ""
+                },
+                "Copy.ai": {
+                    "url": "https://aiinfinity.blogspot.com/p/copywritingcopy-ai.html",
+                    "definition": "Leverage AI to write your content and copy in minutes.Generate high-converting copy for all your campaigns with just a few clicks.",
+                    "features": ""
+                },
+                "Copymatic": {
+                    "url": "https://aiinfinity.blogspot.com/p/copywritingcopymatic.html",
+                    "definition": "Generate Content, Copy & Images with AI Use AI to boost your traffic and save hours of work.Automatically write unique, engaging and high-quality copy or content: from long-form blog posts or landing pages to digital ads in seconds.",
+                    "features": ""
+                },
+                "CopyMonkey": {
+                    "url": "https://aiinfinity.blogspot.com/p/copywritingcopymonkey.html",
+                    "definition": "CopyMonkey generates and optimizes Amazon listings in seconds. AI helps place all of the important keywords in your Amazon listing to get you ranking organically on the first page.",
+                    "features": ""
+                },
+                "Copysmith": {
+                    "url": "https://aiinfinity.blogspot.com/p/copywritingcopysmith.html",
+                    "definition": "Copysmith is the AI content creation solution for Enterprise & eCommerce.",
+                    "features": ""
+                },
+                "Cowriter": {
+                    "url": "https://aiinfinity.blogspot.com/p/copywritingcowriter.html",
+                    "definition": "Unlock your best writing. Meet your AI writer to help speed up and inspire your creative writing",
+                    "features": ""
+                },
+                "Creator AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/copywritingcreator-ai.html",
+                    "definition": "Creaitor will help you write content in a more powerful, emotionally expressive way.",
+                    "features": ""
+                },
+                "Daydrm AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/copywritingdaydrm-ai.html",
+                    "definition": "AI tool for creative advertising ideas",
+                    "features": ""
+                },
+                "DigitalFirst AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/copywritingdigitalfirst-ai.html",
+                    "definition": "Find the best growth-hacking tactics for your business with AI\nSwitch marketing to autopilot and grow.",
+                    "features": ""
+                },
+                "Easy-Peasy AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/copywritingeasy-peasy-ai.html",
+                    "definition": "Peasy AI - Easy-Peasy.AI is the AI Content Generator that helps you and your team break through creative blocks to create amazing, original content 10X faster.",
+                    "features": ""
+                },
+                "Eilla AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/copywritingeilla-ai.html",
+                    "definition": "Generate content in seconds and save valuable time for your team with the power of AI.",
+                    "features": ""
+                },
+                "Go Charlie": {
+                    "url": "https://aiinfinity.blogspot.com/p/copywritinggo-charlie.html",
+                    "definition": "The Content Creator\u2019s New Best Friend!",
+                    "features": ""
+                },
+                "HelloScribe": {
+                    "url": "https://aiinfinity.blogspot.com/p/copywritinghelloscribe.html",
+                    "definition": "HelloScribe\u2019s AI writing and brainstorming tools help PR and Marketing professionals work smarter and faster without creative blocks or wasted time.",
+                    "features": ""
+                },
+                "Hypotenuse AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/copywritinghypotenuse-ai.html",
+                    "definition": "Provide a few keywords, and we\u2019ll instantly turn them into full-length articles and marketing content, using our world-class AI with a vast knowledge of the world.",
+                    "features": ""
+                },
+                "Jasper": {
+                    "url": "https://aiinfinity.blogspot.com/p/copywritingjasper.html",
+                    "definition": "Jasper is the AI Content Generator that helps you and your team break through creative blocks to create amazing, original content 10X faster.",
+                    "features": ""
+                },
+                "Lek": {
+                    "url": "https://aiinfinity.blogspot.com/p/copywritinglek.html",
+                    "definition": "Write Anything For Everything The fastest and easiest way to create content and copy.",
+                    "features": ""
+                },
+                "Ocoya": {
+                    "url": "https://aiinfinity.blogspot.com/p/copywritingocoya.html",
+                    "definition": "A platform to create, auto-generate and schedule content quicker.Content marketing, copywriting and social media with the power of AI.",
+                    "features": ""
+                },
+                "ParagraphAI": {
+                    "url": "https://aiinfinity.blogspot.com/p/copywritingparagraph-ai.html",
+                    "definition": "AI Writing App to Write Better, Faster",
+                    "features": ""
+                },
+                "Peppertype AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/copywritingpeppertype-ai.html",
+                    "definition": "Your Virtual Content Assistant Generate content that converts in seconds.",
+                    "features": ""
+                },
+                "Rytr": {
+                    "url": "https://aiinfinity.blogspot.com/p/copywritingrytr.html",
+                    "definition": "Rytr is an AI writing assistant that helps you create high-quality content, in just a few seconds, at a fraction of the cost!",
+                    "features": ""
+                },
+                "Scalenut": {
+                    "url": "https://aiinfinity.blogspot.com/p/copywritingscalenut.html",
+                    "definition": "The AI Copywriting Assistant, You Always Wanted Supercharge your copywriting with the world\u2019s best AI copywriter by Scalenut.",
+                    "features": ""
+                },
+                "Simplified": {
+                    "url": "https://aiinfinity.blogspot.com/p/copywritingsimplified.html",
+                    "definition": "Generate 50+ types of copy in seconds with the AI Writer. Write unique & plagiarism-free content for blogs, articles, ads, products, websites & social media.",
+                    "features": ""
+                },
+                "Texti": {
+                    "url": "https://aiinfinity.blogspot.com/p/copywritingtexti.html",
+                    "definition": "AI that lives in your browser! It will cooperate with you to boost  your content quality!",
+                    "features": ""
+                },
+                "Typli": {
+                    "url": "https://aiinfinity.blogspot.com/p/copywritingtypli.html",
+                    "definition": "The most intuitive AI Content tool which combines AI Writing and an SEO Assistant.",
+                    "features": ""
+                },
+                "unbounce": {
+                    "url": "https://aiinfinity.blogspot.com/p/copywritingunbounce.html",
+                    "definition": "With Smart Copy, you\u2019ll be able to ideate, iterate, and write  custom, high-quality, engaging professional copy for your company, website, or blog quickly and easily.",
+                    "features": ""
+                },
+                "Unbound": {
+                    "url": "https://aiinfinity.blogspot.com/p/copywritingunbound.html",
+                    "definition": "Leverage all the best AI generation tools in one place designed to automate content creation for small business, online shops and creators.",
+                    "features": ""
+                },
+                "VEG3": {
+                    "url": "https://aiinfinity.blogspot.com/p/copywritingveg3.html",
+                    "definition": "world\u2019s first vegan artificial intelligence marketing assistant.",
+                    "features": ""
+                },
+                "WiziShop": {
+                    "url": "https://aiinfinity.blogspot.com/p/copywritingwizishop.html",
+                    "definition": "Use WiziShop\u2019s Artificial Intelligence to write your product descriptions, find inspiration for your future articles, easily go international, and generate more traffic to your store!",
+                    "features": ""
+                },
+                "Writesonic": {
+                    "url": "https://aiinfinity.blogspot.com/p/copywritingwritesonic.html",
+                    "definition": "Create SEO-optimized and plagiarism-free content for your blogs, ads, emails, and website 10X faster.",
+                    "features": ""
+                },
+                "WordTune": {
+                    "url": "https://aiinfinity.blogspot.com/p/copywritingwordtune.html",
+                    "definition": "Your thoughts in words! Say exactly what you mean through clear, compelling and authentic writing.",
+                    "features": ""
+                }
+            },
+            "Customer Support:": {
+                "Adobe Sensei": {
+                    "url": "https://aiinfinity.blogspot.com/p/customer-supportadobe-sensei.html",
+                    "definition": "Designing and delivering the perfect customer experience can be complicated. Sensei uses AI and machine learning to make it easier.",
+                    "features": ""
+                },
+                "BotDistrikt": {
+                    "url": "https://aiinfinity.blogspot.com/p/customer-supportbotdistrikt.html",
+                    "definition": "BotDistrikt is a complete chatbot solution for your business.",
+                    "features": ""
+                },
+                "Cohere": {
+                    "url": "https://aiinfinity.blogspot.com/p/customer-supportcohere.html",
+                    "definition": "Cohere helps CX teams resolve tickets faster while reducing costs, resulting in happier agents and satisfied customers.",
+                    "features": ""
+                },
+                "Delve": {
+                    "url": "https://aiinfinity.blogspot.com/p/customer-supportdelve.html",
+                    "definition": "Create personas automatically for your business and for your competitor businesses.",
+                    "features": ""
+                },
+                "Ebi AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/customer-supportebi-ai.html",
+                    "definition": "Create your company\u2019s first high performance AI assistant and start delighting customers within 15 minutes; zero coding or technical know-how required.",
+                    "features": ""
+                },
+                "echowin": {
+                    "url": "https://aiinfinity.blogspot.com/p/customer-supportechowin.html",
+                    "definition": "AI Powered Call Management.",
+                    "features": ""
+                },
+                "Forethought": {
+                    "url": "https://aiinfinity.blogspot.com/p/customer-supportforethought.html",
+                    "definition": "The Leading Generative AI for Customer Support Automation! Meet SupportGPT, the generative AI automation platform that lowers support costs while providing top-tier service in every customer interaction.",
+                    "features": ""
+                },
+                "Harvey": {
+                    "url": "https://aiinfinity.blogspot.com/p/customer-supportharvey.html",
+                    "definition": "Leave the time-consuming grunt work to Harvey - Hiver\u2019s AI bot. Focus your attention on the more important tasks.",
+                    "features": ""
+                },
+                "Kaizan": {
+                    "url": "https://aiinfinity.blogspot.com/p/customer-supportkaizan.html",
+                    "definition": "Kaizan automates your tasks using conversation intelligence and highlights what will increase client success and revenue.",
+                    "features": ""
+                },
+                "Kore AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/customer-supportkore-ai.html",
+                    "definition": "Driving AI-Optimized Customer and Employee Experiences.",
+                    "features": ""
+                },
+                "Maya": {
+                    "url": "https://aiinfinity.blogspot.com/p/customer-supportmaya.html",
+                    "definition": "AI-driven personalization:customers, banks, and merchants.",
+                    "features": ""
+                },
+                "Poly AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/customer-supportpoly-ai.html",
+                    "definition": "Customer-Led Conversational Assistants Answer every call immediately, 24/7.",
+                    "features": ""
+                },
+                "Puzzle": {
+                    "url": "https://aiinfinity.blogspot.com/p/customer-supportpuzzle.html",
+                    "definition": "Bring clarity to your product with an intelligent glossary.",
+                    "features": ""
+                },
+                "Quickchat": {
+                    "url": "https://aiinfinity.blogspot.com/p/customer-supportquickchat.html",
+                    "definition": "Technology to build AI Assistants that talk like a Human.",
+                    "features": ""
+                },
+                "Regie": {
+                    "url": "https://aiinfinity.blogspot.com/p/customer-supportregie.html",
+                    "definition": "Regie.ai is your all-in-one content creation and management system.",
+                    "features": ""
+                },
+                "Simple Phones": {
+                    "url": "https://aiinfinity.blogspot.com/p/customer-supportsimple-phones.html",
+                    "definition": "Never miss a call from a customer.Forward your missed calls,or get a new number, and we\u2019ll answer it using AI.",
+                    "features": ""
+                },
+                "Tiledesk": {
+                    "url": "https://aiinfinity.blogspot.com/p/customer-supporttiledesk.html",
+                    "definition": "The all-in-one customer engagement platform! From lead-gen to post-sales, from WhatsApp to your website.With omni-channel live chat and chatbots",
+                    "features": ""
+                },
+                "Typewise": {
+                    "url": "https://aiinfinity.blogspot.com/p/customer-supporttypewise.html",
+                    "definition": "AI Writing Solution for Customer Service and Sales teams.",
+                    "features": ""
+                },
+                "Vee": {
+                    "url": "https://aiinfinity.blogspot.com/p/customer-supportvee.html",
+                    "definition": "effectively implementing business processes for dozens of companies from various industries.",
+                    "features": ""
+                },
+                "viable": {
+                    "url": "https://aiinfinity.blogspot.com/p/customer-supportviable.html",
+                    "definition": "Save hundreds of hours analyzing feedback.Harness the power of our AI and GPT-3 to automate your qualitative data analysis without compromising quality.",
+                    "features": ""
+                }
+            },
+            "Design Assistant:": {
+                "AI2image": {
+                    "url": "https://aiinfinity.blogspot.com/p/design-assistantai2image.html",
+                    "definition": "You can generate images for your website,blogs or social media from a simple description in English.",
+                    "features": ""
+                },
+                "AIGraphics": {
+                    "url": "https://aiinfinity.blogspot.com/p/design-assistantaigraphics.html",
+                    "definition": "Create Beautiful, Bespoke Graphics in Seconds with AI!",
+                    "features": ""
+                },
+                "Autodraw": {
+                    "url": "https://aiinfinity.blogspot.com/p/design-assistantautodraw.html",
+                    "definition": "Fast drawing for everyone.",
+                    "features": ""
+                },
+                "CandyIcons": {
+                    "url": "https://aiinfinity.blogspot.com/p/design-assistantcandyicons.html",
+                    "definition": "Find\u00a0beautiful app icons\u00a0for your product!",
+                    "features": ""
+                },
+                "Clickable": {
+                    "url": "https://aiinfinity.blogspot.com/p/design-assistantclickable.html",
+                    "definition": "Generate ads in seconds with AI!",
+                    "features": ""
+                },
+                "Designs AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/design-assistantdesigns-ai.html",
+                    "definition": "Designs AI is an integrated Agency-as-a-Service platform that uses A.I. technology to allow users to create, edit, and scale content.",
+                    "features": ""
+                },
+                "Diagram": {
+                    "url": "https://aiinfinity.blogspot.com/p/design-assistantdiagram.html",
+                    "definition": "Design Smarter! Magical new ways to design products.",
+                    "features": ""
+                },
+                "Dimensions": {
+                    "url": "https://aiinfinity.blogspot.com/p/design-assistantdimensions.html",
+                    "definition": "Focus on\u00a0creativity!",
+                    "features": ""
+                },
+                "Flair AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/design-assistantflair-ai.html",
+                    "definition": "THE AI DESIGN TOOL FORBRANDED CONTENT!",
+                    "features": ""
+                },
+                "Hotpot AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/design-assistanthotpot-ai.html",
+                    "definition": "Your Creative Helper!",
+                    "features": ""
+                },
+                "IconifyAI": {
+                    "url": "https://aiinfinity.blogspot.com/p/design-assistanticonifyai.html",
+                    "definition": "Elevate your app\u2019s design with AI-generated app icons!",
+                    "features": ""
+                },
+                "IllostrationAI": {
+                    "url": "https://aiinfinity.blogspot.com/p/design-assistantillustration-ai.html",
+                    "definition": "Create AI-generated\u00a0illustrations.\nUniqueness\u00a0in seconds.",
+                    "features": ""
+                },
+                "Illustroke": {
+                    "url": "https://aiinfinity.blogspot.com/p/design-assistantillustroke.html",
+                    "definition": "Stunning vector illustrations from text prompts.",
+                    "features": ""
+                },
+                "Magician (Figma)": {
+                    "url": "https://aiinfinity.blogspot.com/p/design-assistantmagicianfigma.html",
+                    "definition": "A magical design tool for Figma powered by AI.",
+                    "features": ""
+                },
+                "Microsoft Designer": {
+                    "url": "https://aiinfinity.blogspot.com/p/design-assistantmicrosoft-designer.html",
+                    "definition": "Stunning design in a flash with Microsoft Designer.",
+                    "features": ""
+                },
+                "Pattern Maker AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/design-assistantpattern-maker-ai.html",
+                    "definition": "Generate beautiful pattern concepts using Artificial Intelligence.",
+                    "features": ""
+                },
+                "Patterned AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/design-assistantpatterned-ai.html",
+                    "definition": "Generate unique patterns for your product using AI!",
+                    "features": ""
+                },
+                "Photoroom": {
+                    "url": "https://aiinfinity.blogspot.com/p/design-assistantphotoroom.html",
+                    "definition": "Create professional designs for free with our all-in-one creative photo editing platform.",
+                    "features": ""
+                },
+                "Pictorial": {
+                    "url": "https://aiinfinity.blogspot.com/p/design-assistantpictorial.html",
+                    "definition": "Effortlessly\u00a0create graphics\u00a0for your\u00a0ads/blog/website.",
+                    "features": ""
+                },
+                "Pinegraph": {
+                    "url": "https://aiinfinity.blogspot.com/p/design-assistantpinegraph.html",
+                    "definition": "AI based design tool.",
+                    "features": ""
+                },
+                "RocketAI": {
+                    "url": "https://aiinfinity.blogspot.com/p/design-assistantrocketai.html",
+                    "definition": "YOUR GRAPHIC DESIGN CO-PILOT!",
+                    "features": ""
+                },
+                "PixelVibe": {
+                    "url": "https://aiinfinity.blogspot.com/p/design-assistantpixelvibe.html",
+                    "definition": "Create the exact visual you need.",
+                    "features": ""
+                },
+                "Scribble Diffusion": {
+                    "url": "https://aiinfinity.blogspot.com/p/design-assistantscribble-diffusion.html",
+                    "definition": "Turn your sketch into a refined image using AI.",
+                    "features": ""
+                },
+                "StockImg AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/design-assistantstockimg-ai.html",
+                    "definition": "Create design for logo/poster etc.",
+                    "features": ""
+                },
+                "Uizard": {
+                    "url": "https://aiinfinity.blogspot.com/p/design-assistantuizard.html",
+                    "definition": "Visualize and communicate your ideas effortlessly.No design experience required!",
+                    "features": ""
+                },
+                "Unbound": {
+                    "url": "https://aiinfinity.blogspot.com/p/design-assistantunbound.html",
+                    "definition": "Automate content creation for your small business!",
+                    "features": ""
+                },
+                "Vizcom": {
+                    "url": "https://aiinfinity.blogspot.com/p/design-assistantvizcom.html",
+                    "definition": "AI tools to express your creativity!",
+                    "features": ""
+                }
+            },
+            "Developer Tools:": {
+                "Autobackend": {
+                    "url": "https://aiinfinity.blogspot.com/p/developerautobackend.html",
+                    "definition": "Describe your backend In one or two sentences, describe what you\u2019d like your backend to do.",
+                    "features": ""
+                },
+                "AutoRegex": {
+                    "url": "https://aiinfinity.blogspot.com/p/developerautoregx.html",
+                    "definition": "Effortless conversions from English to Regex! Regex is difficult to write and comprehend to the average human.",
+                    "features": ""
+                },
+                "Chatbotkit": {
+                    "url": "https://aiinfinity.blogspot.com/p/developerchatbotkit.html",
+                    "definition": "The simplest way to buildadvanced AI chat bots.\nPlatform makes it easy for developers and non-developers alike to build chatbots that can communicate with users in natural language",
+                    "features": ""
+                },
+                "Convai": {
+                    "url": "https://aiinfinity.blogspot.com/p/developerconvai.html",
+                    "definition": "Design your conversation based Characters and Speech based games.",
+                    "features": ""
+                },
+                "CSM": {
+                    "url": "https://aiinfinity.blogspot.com/p/developercsm.html",
+                    "definition": "Common Sense Machines provides APIs, interfaces, and open source software to translate multi-modal inputs and experiences into a digital simulator for AI training and content creation.",
+                    "features": ""
+                },
+                "Dust": {
+                    "url": "https://aiinfinity.blogspot.com/p/developerdust.html",
+                    "definition": "Design and Deploy Large Language Model Apps.",
+                    "features": ""
+                },
+                "GptDuck": {
+                    "url": "https://aiinfinity.blogspot.com/p/developergptduck.html",
+                    "definition": "GPTDuck is a tool that helps you find the answer to your questions about a Github repository.",
+                    "features": ""
+                },
+                "GPUX AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/developergpux-ai.html",
+                    "definition": "Deploy \u2018X\u2019 Fast.Run anything Dockerized\nRun autoscale\u00a0Inference!",
+                    "features": ""
+                },
+                "HTTPie AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/developerhttpie-ai.html",
+                    "definition": "HTTPie is making APIs simple and intuitive for those building the tools of our time.",
+                    "features": ""
+                },
+                "Hugging Face": {
+                    "url": "https://aiinfinity.blogspot.com/p/developerhugging-face.html",
+                    "definition": "The AI community building the future.Build, train and deploy state of the art models powered by the reference open source in machine learning.",
+                    "features": ""
+                },
+                "Lightning AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/developerlighting-ai.html",
+                    "definition": "Use platform to build AI products, train, finetune and deploy models on the cloud without worrying about infrastructure, cost management, scaling, and other technical headaches.",
+                    "features": ""
+                },
+                "Liner AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/developerliner-ai.html",
+                    "definition": "Liner is a free tool that lets you train your ML models easily. It takes your training data and gives you an easy-to-integrate ML model. No coding or expertise in machine learning required.",
+                    "features": ""
+                },
+                "Mintlify": {
+                    "url": "https://aiinfinity.blogspot.com/p/developermintlify.html",
+                    "definition": "Build the documentation you\u2019ve always wanted. Beautiful out of the box, easy to maintain, and optimized for user engagement.",
+                    "features": ""
+                },
+                "Nuclia": {
+                    "url": "https://aiinfinity.blogspot.com/p/developernuclia.html",
+                    "definition": "The AI search engine delivering the right answers from your data!\nEffortless integration. For any data, including video, wherever it is.",
+                    "features": ""
+                },
+                "Pipeline AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/developerpipeline-ai.html",
+                    "definition": "Serverless GPU inference for ML models! Pay-per-millisecond API to run ML in production.",
+                    "features": ""
+                },
+                "PromptLayer": {
+                    "url": "https://aiinfinity.blogspot.com/p/developerpromptlayer.html",
+                    "definition": "The first platform built for prompt engineers! Maintain a log of your prompts and OpenAI API requests. Track, debug, and replay old completions.",
+                    "features": ""
+                },
+                "Retune": {
+                    "url": "https://aiinfinity.blogspot.com/p/developerretune.html",
+                    "definition": "The missing frontend for GPT-3\nBuild GPT-3 powered apps,\nwithout writing any code.",
+                    "features": ""
+                },
+                "Riku AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/developerriku-ai.html",
+                    "definition": "Empowering you to build AI models without code. Use AI through integrations, API, or public share links. Accessible AI for everyone.",
+                    "features": ""
+                },
+                "Rtutor": {
+                    "url": "https://aiinfinity.blogspot.com/p/developerrtutor.html",
+                    "definition": "Chat with your data via AI.",
+                    "features": ""
+                },
+                "RunPod": {
+                    "url": "https://aiinfinity.blogspot.com/p/developerrunpod.html",
+                    "definition": "Save over 80% on GPUs. GPU rental made easy with Jupyter for PyTorch, Tensorflow or any other AI framework.",
+                    "features": ""
+                },
+                "Shaped": {
+                    "url": "https://aiinfinity.blogspot.com/p/developershaped.html",
+                    "definition": "Recommendation APIs that increase your metrics \ud83d\ude80",
+                    "features": ""
+                },
+                "Stable Diffusion": {
+                    "url": "https://aiinfinity.blogspot.com/p/developerstable-diffusion.html",
+                    "definition": "Designing and implementing solutions using collective intelligence and augmented technology.",
+                    "features": ""
+                },
+                "SyntheticAldata": {
+                    "url": "https://aiinfinity.blogspot.com/p/developersyntheticaidata.html",
+                    "definition": "Synthetic data is a cost-effective way to train and improve AI models.",
+                    "features": ""
+                },
+                "Teachable Machine": {
+                    "url": "https://aiinfinity.blogspot.com/p/developerteachable-machine.html",
+                    "definition": "Train a computer to recognize your own images, sounds, & poses.",
+                    "features": ""
+                },
+                "Textomap": {
+                    "url": "https://aiinfinity.blogspot.com/p/developertexttomap.html",
+                    "definition": "Turn text into interactive maps in seconds! Create insightful maps for travel, education, current events, and storytelling.No code, spreadsheets, or complex tools - your words are enough.",
+                    "features": ""
+                },
+                "Tinq AI-NLP API": {
+                    "url": "https://aiinfinity.blogspot.com/p/developertinq.html",
+                    "definition": "NLP API - Tinq.ai is a simple natural language processing tool. It helps you easily implement text analysis within your projects.",
+                    "features": ""
+                },
+                "Valyr": {
+                    "url": "https://aiinfinity.blogspot.com/p/developervalyr.html",
+                    "definition": "Simplify GPT-3 monitoring with one line of code.",
+                    "features": ""
+                }
+            },
+            "Education:": {
+                "Caktus": {
+                    "url": "https://aiinfinity.blogspot.com/p/educationcaktus.html",
+                    "definition": "Writing,Coding,CV,Resume Maker!",
+                    "features": ""
+                },
+                "MindSmith": {
+                    "url": "https://aiinfinity.blogspot.com/p/educationmindsmith.html",
+                    "definition": "Mindsmith is a learning platform that uses generative AI to make it easy to create and share course material and training.",
+                    "features": ""
+                },
+                "Quizgecko": {
+                    "url": "https://aiinfinity.blogspot.com/p/educationquizgecko.html",
+                    "definition": "Quizgecko is a fast, free text to question generator, powered by AI.",
+                    "features": ""
+                },
+                "TutorAI": {
+                    "url": "https://aiinfinity.blogspot.com/p/educationtutorai.html",
+                    "definition": "Learn anything",
+                    "features": ""
+                },
+                "Yip": {
+                    "url": "https://aiinfinity.blogspot.com/p/educationyip.html",
+                    "definition": "Enter your Notes or any URL and Yip \ud83e\udd16 will generate a quiz automatically from them.",
+                    "features": ""
+                }
+            },
+            "Email Assistant:": {
+                "ChatGPT Writer": {
+                    "url": "https://aiinfinity.blogspot.com/p/email-assistantchatgpt-writer.html",
+                    "definition": "Free Chrome extension to generate entire emails and messages using ChatGPT AI. All sites are supported and enhanced support for Gmail.",
+                    "features": ""
+                },
+                "Creatext": {
+                    "url": "https://aiinfinity.blogspot.com/p/email-assistantcreatext.html",
+                    "definition": "Creatext finds information about your prospects on the entire Internet and AI-generates personalized text snippets.",
+                    "features": ""
+                },
+                "DraftLab": {
+                    "url": "https://aiinfinity.blogspot.com/p/email-assistantdraftlab.html",
+                    "definition": "Your Gmail copilot.Powered by AI.Write better emails faster. Reach Inbox Zero 10x faster with the DraftLab Chrome extension for Gmail.",
+                    "features": ""
+                },
+                "Effortless Email": {
+                    "url": "https://aiinfinity.blogspot.com/p/email-assistanteffortless-email.html",
+                    "definition": "QUICKLY TURN BULLET POINTS WRITTEN IN ONE LANGUAGE INTO A FULL EMAIL IN A DIFFERENT LANGUAGE.WRITE EMAILS FASTER!",
+                    "features": ""
+                },
+                "Ellie": {
+                    "url": "https://aiinfinity.blogspot.com/p/email-assistantellie.html",
+                    "definition": "Meet Ellie, your AI email assistant! Ellie learns from your writing style and crafts replies as if they were written by you.",
+                    "features": ""
+                },
+                "GETitOUT": {
+                    "url": "https://aiinfinity.blogspot.com/p/email-assistantgetitout.html",
+                    "definition": "Meet GETitOUT\u2019s Persona Generator: Extract personas from competitors. Generate professional texts. Then paste them into all your websites, emails, and marketing tools.",
+                    "features": ""
+                },
+                "HoppyCopy": {
+                    "url": "https://aiinfinity.blogspot.com/p/email-assistanthoppycopy.html",
+                    "definition": "Save countless hours writing. Use AI to generate powerful copy for hundreds of different email marketing campaigns, drips, newsletters and more\u2014in seconds \u26a1",
+                    "features": ""
+                },
+                "Instantly": {
+                    "url": "https://aiinfinity.blogspot.com/p/email-assistantinstantly.html",
+                    "definition": "Instantly helps you scale your outreach campaigns through unlimited email sending accounts, unlimited warmup, and smart AI.",
+                    "features": ""
+                },
+                "Ipso AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/email-assistantipso-ai.html",
+                    "definition": "Schedule meetings 100x faster! AI assistant that manages calendars & drafts emails based on your unique preferences, powered by GPT-3",
+                    "features": ""
+                },
+                "Lavender": {
+                    "url": "https://aiinfinity.blogspot.com/p/email-assistantlavender.html",
+                    "definition": "Lavender helps you get more replies in less time. It\u2019s everything you need to personalize faster, write more impactful emails, coach, and improve.",
+                    "features": ""
+                },
+                "Luna": {
+                    "url": "https://aiinfinity.blogspot.com/p/email-assistantluna.html",
+                    "definition": "Automated messages are dead these days. Get more replies on your cold emails with Luna - World\u2019s first software application that uses AI to suggest new high-quality leads every day and send them the personal emails they deserve.",
+                    "features": ""
+                },
+                "Magicreach": {
+                    "url": "https://aiinfinity.blogspot.com/p/email-assistantmagicreach.html",
+                    "definition": "Personalized emails get more replies. But you send many emails and you don\u2019t have time.Reach aggregates the info you need and suggests personalized icebreakers for each lead.Personalize more emails and boost replies.",
+                    "features": ""
+                },
+                "MateAI": {
+                    "url": "https://aiinfinity.blogspot.com/p/email-assistantmateai.html",
+                    "definition": "Generate Copy and Design for your email campaigns, faster.",
+                    "features": ""
+                },
+                "Mentioned": {
+                    "url": "https://aiinfinity.blogspot.com/p/email-assistantmentioned.html",
+                    "definition": "scan your content to identify people and companies you\u2019ve mentioned, then, send email campaigns to let them know.",
+                    "features": ""
+                },
+                "Ortto": {
+                    "url": "https://aiinfinity.blogspot.com/p/email-assistantortto.html",
+                    "definition": "Journeys made simple Your customer data, messaging,and analytics working together.",
+                    "features": ""
+                },
+                "Outplayhq": {
+                    "url": "https://aiinfinity.blogspot.com/p/email-assistantoutplayhq.html",
+                    "definition": "3x your sales meetings, not your budget.",
+                    "features": ""
+                },
+                "ParagraphAI": {
+                    "url": "https://aiinfinity.blogspot.com/p/email-assistantparagraphai.html",
+                    "definition": "AI writing software drafts responses to emails, messages, comments, and more in seconds. Save time on otherwise tedious tasks and enjoy your newfound downtime.",
+                    "features": ""
+                },
+                "Pipl AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/email-assistantpipl-ai.html",
+                    "definition": "It is hard to send cold emails at scale. We make it a breeze. Connect unlimited inboxes, enjoy free warm-up for ALL your accounts, built-in email validation and data cleansing, AI-powered sequence & template writer and much more\u2026",
+                    "features": ""
+                },
+                "PolitePost": {
+                    "url": "https://aiinfinity.blogspot.com/p/email-assistantpolitepost.html",
+                    "definition": "Rewriting your emails with AI to be polite/courteous/professional/safe for work.",
+                    "features": ""
+                },
+                "Postaga": {
+                    "url": "https://aiinfinity.blogspot.com/p/email-assistantpostaga.html",
+                    "definition": "No one likes to receive template emails. Postaga\u2019s all-in-one outreach platform helps you build personalized outreach campaigns, with AI-powered tools to connect you with the right people.",
+                    "features": ""
+                },
+                "Quicklines": {
+                    "url": "https://aiinfinity.blogspot.com/p/email-assistantquicklines.html",
+                    "definition": "Quicklines helps you \ncreate personalized cold emails that get more replies at scale.",
+                    "features": ""
+                },
+                "Regie": {
+                    "url": "https://aiinfinity.blogspot.com/p/email-assistantregie.html",
+                    "definition": "Regie.ai is your all-in-one content creation and management system.",
+                    "features": ""
+                },
+                "Reply IO": {
+                    "url": "https://aiinfinity.blogspot.com/p/email-assistantreply-io.html",
+                    "definition": "Generate human-like sales emails in seconds! Sales Email Assistant by Reply.io is an AI-powered tool that helps you create 100% human-like emails in seconds while focusing on personalization.",
+                    "features": ""
+                },
+                "Robin": {
+                    "url": "https://aiinfinity.blogspot.com/p/email-assistantrobin.html",
+                    "definition": "Robin AI writes and sends emails from your email address, adjusting the copy based on the lead information.",
+                    "features": ""
+                },
+                "Smartwriter": {
+                    "url": "https://aiinfinity.blogspot.com/p/email-assistantsmartwriter.html",
+                    "definition": "Generate 1000s of Personalised Emails that get you 8x more replies within minutes using AI.Never waste time researching or writing\u2019personalised\u2019 emails again. Automate your entire outreach process. 40x faster and 6x cheaper than humans.",
+                    "features": ""
+                },
+                "SuperReply": {
+                    "url": "https://aiinfinity.blogspot.com/p/email-assistantsuperreply.html",
+                    "definition": "Improve your productivity and free up time with superReply\u2019s AI-powered email replies.",
+                    "features": ""
+                },
+                "Warmer AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/email-assistantwarmer-ai.html",
+                    "definition": "Sky rocket your cold emails with unique personalizations generated by AI.",
+                    "features": ""
+                }
+            },
+            "Fashion:": {
+                "Botika": {
+                    "url": "https://aiinfinity.blogspot.com/p/fashionbotika.html",
+                    "definition": "Reinvent fashion photoshoots! Generate an endless variety of hyper-realistic on-model photos. 10X faster, at a fraction of the costs.",
+                    "features": ""
+                },
+                "Cala": {
+                    "url": "https://aiinfinity.blogspot.com/p/fashioncala.html",
+                    "definition": "CALA is the leading fashion design interface that unifies the entire design process \u2013 from product ideation all the way through e-commerce enablement and order fulfillment \u2013 into a single digital platform.",
+                    "features": ""
+                },
+                "FashionAdvisorAI": {
+                    "url": "https://aiinfinity.blogspot.com/p/fashionfashionadvisorai.html",
+                    "definition": "having trouble deciding what to wear with what? i had to so here i am writing about it.",
+                    "features": ""
+                },
+                "VisualHound": {
+                    "url": "https://aiinfinity.blogspot.com/p/fashionvisualhound.html",
+                    "definition": "Prototype your fashion design ideas with AI.",
+                    "features": ""
+                }
+            },
+            "Fun:": {
+                "Excuses Generator": {
+                    "url": "https://aiinfinity.blogspot.com/p/funexcuses.html",
+                    "definition": "Generate excuses with AI for when you mess up.",
+                    "features": ""
+                },
+                "Roasted by AI": {
+                    "url": "https://www.roastedby.ai/",
+                    "definition": "roast chat with AI.",
+                    "features": ""
+                }
+            },
+            "Gift Ideas:": {
+                "Cool Gift Ideas": {
+                    "url": "https://aiinfinity.blogspot.com/p/giftcool-gift-ideas.html",
+                    "definition": "Give the perfect gift! Discover creative gift ideas for anyone based on who they are.",
+                    "features": ""
+                },
+                "Elf Help": {
+                    "url": "https://aiinfinity.blogspot.com/p/giftelf-help.html",
+                    "definition": "Elf Help is your ultimate gift-giving assistant, offering creative and personalized suggestions for everyone on your list, all for free.",
+                    "features": ""
+                },
+                "Giftastic AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/giftgiftastic-ai.html",
+                    "definition": "Describe the person you want the gift for as accurately as possible, and we recommend suitable and personalized gifts for your special one!",
+                    "features": ""
+                },
+                "Gifts Genie": {
+                    "url": "https://aiinfinity.blogspot.com/p/giftgifts-genie.html",
+                    "definition": "Describe your loved one\u2019s interests!",
+                    "features": ""
+                },
+                "Suggest Gift": {
+                    "url": "https://aiinfinity.blogspot.com/p/giftsuggest-gift.html",
+                    "definition": "AI Powered Gift Suggestions!",
+                    "features": ""
+                }
+            },
+            "Healthcare:": {
+                "Cradle": {
+                    "url": "https://aiinfinity.blogspot.com/p/healthcarecradle.html",
+                    "definition": "Cradle helps biologists design improved proteins in record time using powerful prediction algorithms and AI design suggestions.",
+                    "features": ""
+                },
+                "Medical Diagnosis Assistant": {
+                    "url": "https://aiinfinity.blogspot.com/p/healthcaremedical-diagnosis-assistant.html",
+                    "definition": "Experience the future of healthcare with our ChatGPT-powered medical diagnostic and symptom checking tool.",
+                    "features": ""
+                },
+                "Symptom Checker": {
+                    "url": "https://aiinfinity.blogspot.com/p/healthcaresymptom-checker.html",
+                    "definition": "AI Powered Medical Symptom Checker.",
+                    "features": ""
+                },
+                "Whisper AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/healthcarewhisper-ai.html",
+                    "definition": "Meet Whisper, the new hearing system that gets better over time.",
+                    "features": ""
+                }
+            },
+            "Image Editing:": {
+                "AI Image Enlarger": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-editingai-image-enlarger.html",
+                    "definition": "All-in-one AI toolkits help you enhance and upscale images. Increases image resolution without losing quality.",
+                    "features": ""
+                },
+                "Befunky": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-editingbefunky.html",
+                    "definition": "BeFunky has an amazing collection of tools and features for photo editing, collage making, and graphic design.",
+                    "features": ""
+                },
+                "Bg Eraser": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-editingbg-eraser.html",
+                    "definition": "Remove objects and Clean up pics.",
+                    "features": ""
+                },
+                "Bgsub": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-editingbgsub.html",
+                    "definition": "Automatically replace the background by AI!",
+                    "features": ""
+                },
+                "Booth AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-editingbooth-ai.html",
+                    "definition": "Create pro quality product photography with AI.",
+                    "features": ""
+                },
+                "Bria": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-editingbria.html",
+                    "definition": "The easiest way to find, create, and edit visuals content.",
+                    "features": ""
+                },
+                "Designify": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-editingdesignify.html",
+                    "definition": "Pick any image to create AI-powered designs by automatically removing backgrounds, enhancing colors, adjusting smart shadows, and so much more.",
+                    "features": ""
+                },
+                "Erase bg": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-editingerase-bg.html",
+                    "definition": "Remove background from images of humans, animals or objects and download high-resolution images for free.",
+                    "features": ""
+                },
+                "Evoto AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-editingevoto-ai.html",
+                    "definition": "Evoto is a next-generation image editor.",
+                    "features": ""
+                },
+                "Getimg AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-editinggetimg-ai.html",
+                    "definition": "Stable Diffusion Outpainting with AI Editor.",
+                    "features": ""
+                },
+                "Green Screen AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-editinggreen-screen-ai.html",
+                    "definition": "Change the background of any image with AI.",
+                    "features": ""
+                },
+                "Hama-Image Editing": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-editinghama.html",
+                    "definition": "Image Editing - Hama is an AI-powered web application that lets you erase objects from your photo with a single brush.",
+                    "features": ""
+                },
+                "Let\u2019s Enhance": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-editinglets-enhance.html",
+                    "definition": "Automatic AI editor to increase image resolution without losing quality.",
+                    "features": ""
+                },
+                "Magic Eraser": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-editingmagic-eraser.html",
+                    "definition": "Remove unwanted things in seconds.",
+                    "features": ""
+                },
+                "Nostalgia Photo": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-editingnostalgia-photo.html",
+                    "definition": "Nostalgia Photo brings old photos back to life with the latest cutting-edge Artificial Intelligence.",
+                    "features": ""
+                },
+                "Palette fm": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-editingpalette-fm.html",
+                    "definition": "Colorize Pictures!",
+                    "features": ""
+                },
+                "QuickTools by Picsart": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-editingquicktools-by-picsart.html",
+                    "definition": "Make stunning edits with our image tools.",
+                    "features": ""
+                },
+                "Radiant Photo": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-editingradiant-photo.html",
+                    "definition": "Get superior quality finished photos with perfect color rendition, delivered to you in record time.",
+                    "features": ""
+                },
+                "Remove bg": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-editingremove-bg.html",
+                    "definition": "Remove Image Background.",
+                    "features": ""
+                },
+                "RestorePhotos": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-editingrestorephotos.html",
+                    "definition": "Restoring old photos using AI for everyone.",
+                    "features": ""
+                },
+                "Topaz Photo AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-editingtopaz-photo.html",
+                    "definition": "Maximize your image quality on autopilot.",
+                    "features": ""
+                },
+                "Visio Studio": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-editingvisio-studio.html",
+                    "definition": "Advanced background removal tool, powered by computer vision technology.",
+                    "features": ""
+                }
+            },
+            "Image Generator:": {
+                "Aragon-Image Generation": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-generatoraragon.html",
+                    "definition": "Image Generation - PROFESSIONAL HEADSHOTS\nWITHOUT THE HASSLE",
+                    "features": ""
+                },
+                "Artssy": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-generatorartssy.html",
+                    "definition": "Create unique AI generated images in 1-click.",
+                    "features": ""
+                },
+                "BlueWillow": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-generatorbluewillow.html",
+                    "definition": "Bring your ideas to life with AI-generated images.",
+                    "features": ""
+                },
+                "Canva Text to Image": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-generatorcanva-text-to-image.html",
+                    "definition": "Type what you\u2019d like to see, and watch it come to life.",
+                    "features": ""
+                },
+                "Craiyon": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-generatorcraiyon.html",
+                    "definition": "Free online AI image generator from text.(Formerly DALL-E Mini)",
+                    "features": ""
+                },
+                "DallE-2": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-generatordalle-2.html",
+                    "definition": "2 - DALL\u00b7E 2 can create original, realistic images and art from a text description.It can combine concepts,attributes,and styles.",
+                    "features": ""
+                },
+                "Diffusion Land": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-generatordiffusion-land.html",
+                    "definition": "Generate images with AI.",
+                    "features": ""
+                },
+                "Dreamer": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-generatordreamer.html",
+                    "definition": "Are you using Notion?\nYou want to use AI generated images without friction?\nSlashDreamer introduces a new command: /dream",
+                    "features": ""
+                },
+                "Getalpaca": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-generatorgetalpaca.html",
+                    "definition": "Combining Human skill and AI generative power! Photoshop Plugin.",
+                    "features": ""
+                },
+                "Imgcreator": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-generatorimgcreator.html",
+                    "definition": "AI based image generator.",
+                    "features": ""
+                },
+                "Midjourney": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-generatormidjourney.html",
+                    "definition": "You can generate images with the Midjourney Bot on Discord.",
+                    "features": ""
+                },
+                "Nijijourney": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-generatornijijourney.html",
+                    "definition": "Let\u2019s make magic anime pictures!",
+                    "features": ""
+                },
+                "Pollinations": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-generatorpollinations.html",
+                    "definition": "Explain your vision using any language and watch it come to live.",
+                    "features": ""
+                },
+                "Soreal AI Studio": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-generatorsoreal.html",
+                    "definition": "Type anything you want to see. Get custom AI images in seconds.",
+                    "features": ""
+                },
+                "Stock AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-generatorstock-ai.html",
+                    "definition": "AI-generated stock photos.",
+                    "features": ""
+                },
+                "Stylized": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-generatorstylized.html",
+                    "definition": "Stunning product photos that sell!",
+                    "features": ""
+                },
+                "Xno AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/image-generatorxno-ai.html",
+                    "definition": "Text to Image Generator.",
+                    "features": ""
+                }
+            },
+            "Legal Assistant:": {
+                "Activazon": {
+                    "url": "https://aiinfinity.blogspot.com/p/legal-assistantactivazon.html",
+                    "definition": "AI crime analytics for travellers and residence.",
+                    "features": ""
+                },
+                "Casetext - Cara AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/legal-assistantcara-ai.html",
+                    "definition": "Cara AI - CARA A.I. recommends relevant cases, statutes, briefs, black letter law, and more.",
+                    "features": ""
+                },
+                "DoNotPay": {
+                    "url": "https://aiinfinity.blogspot.com/p/legal-assistantdonotpay.html",
+                    "definition": "The DoNotPay app is the home of the world\u2019s first robot lawyer.",
+                    "features": ""
+                },
+                "Legal Robot": {
+                    "url": "https://aiinfinity.blogspot.com/p/legal-assistantlegal-robot.html",
+                    "definition": "Automated legal analysis, for everyone.",
+                    "features": ""
+                },
+                "Spellbook": {
+                    "url": "https://aiinfinity.blogspot.com/p/legal-assistantspellbook.html",
+                    "definition": "Spellbook uses GPT-3 to review and suggest language for your contracts, right in Microsoft Word.",
+                    "features": ""
+                }
+            },
+            "Logo Generator:": {
+                "Brandmark": {
+                    "url": "https://aiinfinity.blogspot.com/p/logobrandmark.html",
+                    "definition": "AI-powered design tools to get color and font ideas for your next logo project.",
+                    "features": ""
+                },
+                "Looka": {
+                    "url": "https://aiinfinity.blogspot.com/p/logolooka.html",
+                    "definition": "Use Looka\u2019s AI-powered platform to design a logo and build a brand you love.",
+                    "features": ""
+                },
+                "Make Logo AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/logomake-logo-ai.html",
+                    "definition": "Make Unique logos with AI.",
+                    "features": ""
+                },
+                "Tailor Brands": {
+                    "url": "https://aiinfinity.blogspot.com/p/logotailor-brands.html",
+                    "definition": "Tailor brands logo creator uses AI to create custom logos in just a few clicks.",
+                    "features": ""
+                }
+            },
+            "Music:": {
+                "Aiva": {
+                    "url": "https://aiinfinity.blogspot.com/p/musicaiva.html",
+                    "definition": "AIVA, the AI music composer that creates original & personalized music for your projects.",
+                    "features": ""
+                },
+                "Amper Music": {
+                    "url": "https://aiinfinity.blogspot.com/p/musicamper-music.html",
+                    "definition": "Create the right sound. Define your narrative. Drive emotion with Amper AI.",
+                    "features": ""
+                },
+                "Artistator": {
+                    "url": "https://aiinfinity.blogspot.com/p/musicartistator.html",
+                    "definition": "Generate artist names of your favourite music genres.",
+                    "features": ""
+                },
+                "Beatoven": {
+                    "url": "https://aiinfinity.blogspot.com/p/musicbeatoven.html",
+                    "definition": "Beatoven.ai uses advanced AI music generation techniques to compose unique mood-based music to suit every part of your video or podcast.",
+                    "features": ""
+                },
+                "Boomy": {
+                    "url": "https://aiinfinity.blogspot.com/p/musicboomy.html",
+                    "definition": "Create generative music.",
+                    "features": ""
+                },
+                "Ecrett Music": {
+                    "url": "https://aiinfinity.blogspot.com/p/musicecrett-music.html",
+                    "definition": "Royalty Free Music for Creators.",
+                    "features": ""
+                },
+                "Endel": {
+                    "url": "https://aiinfinity.blogspot.com/p/musicendel.html",
+                    "definition": "Personalized soundscapes to help you focus, relax, and sleep.Backed by neuroscience.",
+                    "features": ""
+                },
+                "Harmonai": {
+                    "url": "https://aiinfinity.blogspot.com/p/musicharmonai.html",
+                    "definition": "open-source generative audio tools to make music production more accessible and fun for everyone.",
+                    "features": ""
+                },
+                "Jukebox": {
+                    "url": "https://aiinfinity.blogspot.com/p/musicjukebox.html",
+                    "definition": "A neural net that generates music, including rudimentary singing, as raw audio in a variety of genres and artist styles.",
+                    "features": ""
+                },
+                "Mubert": {
+                    "url": "https://aiinfinity.blogspot.com/p/musicmubert.html",
+                    "definition": "Worldwide copyright-protected AI-generated music via API.",
+                    "features": ""
+                },
+                "Natural Language Playlists": {
+                    "url": "https://aiinfinity.blogspot.com/p/musicnatural-language-playlists.html",
+                    "definition": "DALL-E for playlists!",
+                    "features": ""
+                },
+                "RIFFUSION": {
+                    "url": "https://aiinfinity.blogspot.com/p/musicriffusion.html",
+                    "definition": "Riffusion generates music from text prompts.",
+                    "features": ""
+                },
+                "SongTell": {
+                    "url": "https://aiinfinity.blogspot.com/p/musicsongtell.html",
+                    "definition": "The first ever AI-generated song meanings repository.",
+                    "features": ""
+                },
+                "SoundFul": {
+                    "url": "https://aiinfinity.blogspot.com/p/musicsoundful.html",
+                    "definition": "AI MUSIC GENERATOR Soundful helps you generate unique, royalty-free tracks at the click of a button.",
+                    "features": ""
+                },
+                "Splash": {
+                    "url": "https://aiinfinity.blogspot.com/p/musicsplash.html",
+                    "definition": "Bringing the joy of music making to everyone.",
+                    "features": ""
+                }
+            },
+            "Low/No Code:": {
+                "10Web": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlc10web.html",
+                    "definition": "AI-Powered WordPress Platform",
+                    "features": ""
+                },
+                "AI Surge Cloud": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlcai-surge-cloud.html",
+                    "definition": "Deploy your predictive model for free.",
+                    "features": ""
+                },
+                "Anybott": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlcanybott.html",
+                    "definition": "Create AI-based chatbots to automate businesses, quickly and effortlessly.",
+                    "features": ""
+                },
+                "AskAI": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlcaskai.html",
+                    "definition": "Build your own AI Q&A, with any content in minutes. Share it anywhere on the web.",
+                    "features": ""
+                },
+                "Axiom": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlcaxiom.html",
+                    "definition": "Browser Automation. Quickly, without code.",
+                    "features": ""
+                },
+                "B12 io": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlcb12-io.html",
+                    "definition": "B12 is the only all-in-one AI website builder that makes it easy for professional service providers to attract, win, and serve clients online.",
+                    "features": ""
+                },
+                "Bardeen AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlcbardeen-ai.html",
+                    "definition": "Coming in 2023 \u2013 Bardeen is introducing breakthrough AI to automate manual workflows, save you time, and empower your creativity.",
+                    "features": ""
+                },
+                "BatchGPT": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlcbatchgpt.html",
+                    "definition": "Batch Process Your Data With AI.",
+                    "features": ""
+                },
+                "Berri AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlcberri-ai.html",
+                    "definition": "Berri lets you easily connect your data and build production-ready chatGPT apps in minutes.",
+                    "features": ""
+                },
+                "Block Survey": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlcblock-survey.html",
+                    "definition": "BlockSurvey is a privacy-first platform. No ads, no trackers. Protect your respondents\u2019 data and privacy. The only survey tool that keeps your data safe.",
+                    "features": ""
+                },
+                "Brancher AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlcbrancher-ai.html",
+                    "definition": "Connect AI models to build AI apps in minutes, with no code.",
+                    "features": ""
+                },
+                "Browse AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlcbrowse-ai.html",
+                    "definition": "The easiest way to extract and monitor data from any website.",
+                    "features": ""
+                },
+                "Build AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlcbuild-ai.html",
+                    "definition": "Build your own AI-powered web apps tailored to your business. No technical skills required.",
+                    "features": ""
+                },
+                "Chatbotkit": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlcchatbotkit.html",
+                    "definition": "The simplest way to build advanced AI chat bots.",
+                    "features": ""
+                },
+                "ChatGPT Website Builder": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlc-chatgpt-website-builder.html",
+                    "definition": "Build websites with AI.",
+                    "features": ""
+                },
+                "Cogniflow": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlccogniflow.html",
+                    "definition": "Boost your productivity. Integrate AI into your workflow.",
+                    "features": ""
+                },
+                "CustomGPT": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlccustomgpt.html",
+                    "definition": "Build Your Own ChatBOT With Your Data.",
+                    "features": ""
+                },
+                "Durable": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlcdurable.html",
+                    "definition": "The AI website builder that generates an entire website with images and copy in seconds.",
+                    "features": ""
+                },
+                "Dust": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlcdust.html",
+                    "definition": "Make and Deploy Large Language Model Apps.",
+                    "features": ""
+                },
+                "Dystr": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlcdystr.html",
+                    "definition": "Maximize your productivity - focus on the task at hand and automate the rest.",
+                    "features": ""
+                },
+                "Felvin": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlcfelvin.html",
+                    "definition": "Discover and Build your unique AI-enabled app from just a prompt.",
+                    "features": ""
+                },
+                "Gooey AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlcgooey-ai.html",
+                    "definition": "The best place to build, distribute & find Generative AI apps.",
+                    "features": ""
+                },
+                "GPTAgent": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlcgptagent.html",
+                    "definition": "The easiest way to build AI apps.",
+                    "features": ""
+                },
+                "IFTTT": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlcifttt.html",
+                    "definition": "Quickly and easily automate your favorite apps and devices.",
+                    "features": ""
+                },
+                "Kadoa": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlckadoa.html",
+                    "definition": "Effortless Data Extraction in Seconds.",
+                    "features": ""
+                },
+                "Levity": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlclevity.html",
+                    "definition": "Powerful AI that takes care of your daily tasks. Stop manually processing your text, document, and image data. Let AI work its magic, without a single line of code.",
+                    "features": ""
+                },
+                "Lighting AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlclightning-ai.html",
+                    "definition": "Train, deploy, and ship AI products Lightning fast.",
+                    "features": ""
+                },
+                "Liner AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlcliner-ai.html",
+                    "definition": "Liner is a free tool that lets you train your ML models easily. It takes your training data and gives you an easy-to-integrate ML model. No coding or expertise in machine learning required.",
+                    "features": ""
+                },
+                "Lobe": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlclobe.html",
+                    "definition": "Create machine learning models with a free, easy to use tool.",
+                    "features": ""
+                },
+                "Magick": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlcmagick.html",
+                    "definition": "Cutting-edge AI tools at your fingertips. Powerful and production-ready with no code, no deployment, and no headache.",
+                    "features": ""
+                },
+                "MarsAI": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlcmarsx.html",
+                    "definition": "MarsX: Changing the game of software development.Code + NoCode + AI",
+                    "features": ""
+                },
+                "Nanonets": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlcnanonets.html",
+                    "definition": "Automate Manual Data Entry Using AI.Capture data from documents instantly. Reduce turn around times and the manual effort required.",
+                    "features": ""
+                },
+                "Obviously AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlc-obviously-ai.html",
+                    "definition": "Turn AI into ROI by going from raw data to industry leading predictive models in minutes, not months.",
+                    "features": ""
+                },
+                "Onu": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlconu.html",
+                    "definition": "Onu is a developer-first tool that allows engineers to quickly turn their scripts or workflows into production-ready internal tools without writing any frontend code at all.",
+                    "features": ""
+                },
+                "Outset AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlc-outset-ai.html",
+                    "definition": "Power your products with the cutting edge models behind ChatGPT. No AI-expertise required.",
+                    "features": ""
+                },
+                "Pliny": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlcpliny.html",
+                    "definition": "Pliny provides a lightweight interface to turn your prompt into a shareable app. Anyone can run your app for free on their own inputs, or remix it to create a new version.",
+                    "features": ""
+                },
+                "Prisms AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlcprisms-ai.html",
+                    "definition": "The no-code platform for building AI\u2011powered apps.",
+                    "features": ""
+                },
+                "Retune": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlcretune.html",
+                    "definition": "The missing frontend for GPT-3,\nBuild GPT-3 powered apps,without writing any code.",
+                    "features": ""
+                },
+                "Riku AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlcriku-ai.html",
+                    "definition": "Empowering you to build AI models without code. Use AI through integrations, API, or public share links. Accessible AI for everyone.",
+                    "features": ""
+                },
+                "Roboflow": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlcroboflow.html",
+                    "definition": "With a few images, you can deploy a computer vision model in an afternoon.",
+                    "features": ""
+                },
+                "Sitekick": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlc-sitekick.html",
+                    "definition": "Sitekick is an AI landing page builder. It allows you to create beautiful landing pages without the need for coding, design or copywriting skills.",
+                    "features": ""
+                },
+                "Softr": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlcsoftr.html",
+                    "definition": "Softr offers pre-built and functional blocks like Lists, Charts, Forms, Tables, Calendar, Maps out of the box, so you don\u2019t need to reinvent them from scratch. Put together your app in a few minutes with drag and drop, without developers.",
+                    "features": ""
+                },
+                "Steamship": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlc-steamship.html",
+                    "definition": "Steamship is a Managed Backend for AI services.",
+                    "features": ""
+                },
+                "Tally": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlctally.html",
+                    "definition": "Create forms for all purposes in seconds.\nWithout knowing how to code,\u00a0and for free!",
+                    "features": ""
+                },
+                "Teachable Machine": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlcteachable-machine.html",
+                    "definition": "A fast, easy way to create machine learning models for your sites, apps, and more \u2013 no expertise or coding required.",
+                    "features": ""
+                },
+                "TextToMap": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlctexttomap.html",
+                    "definition": "Generate insightful maps from text & questions containing locations.",
+                    "features": ""
+                },
+                "VFitter": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlcvfitter.html",
+                    "definition": "Create custom no-code AI tools that speed everything up!",
+                    "features": ""
+                },
+                "Visily AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlc-visily-ai.html",
+                    "definition": "Design stunning app wireframes at light speed.",
+                    "features": ""
+                },
+                "Wand AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlcwand-ai.html",
+                    "definition": "Wand gives everyone the AI power to solve business problems and create value faster than ever before.",
+                    "features": ""
+                },
+                "Water": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlcwater.html",
+                    "definition": "No code ChatGPT builder.",
+                    "features": ""
+                },
+                "Zapier": {
+                    "url": "https://aiinfinity.blogspot.com/p/nlczapier.html",
+                    "definition": "Zapier empowers you to automate your work across 5,000+ apps\u2014so you can move forward, faster.",
+                    "features": ""
+                }
+            },
+            "Paraphraser:": {
+                "Language Tool": {
+                    "url": "https://aiinfinity.blogspot.com/p/paraphraserlanguage-tool.html",
+                    "definition": "Write. Correct. Paraphrase.",
+                    "features": ""
+                },
+                "LuciaAI": {
+                    "url": "https://aiinfinity.blogspot.com/p/paraphraserluciaai.html",
+                    "definition": "Lucia will rephrase your text to make it more interesting and engaging.",
+                    "features": ""
+                },
+                "Paraphraser": {
+                    "url": "https://aiinfinity.blogspot.com/p/paraphraserparaphraser.html",
+                    "definition": "Paraphrase Tool can change any text in many different ways, ensuring that you find the perfect words, tone, style, and expression for all your writing needs.",
+                    "features": ""
+                },
+                "Penelope AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/paraphraserpenelope-ai.html",
+                    "definition": "Paraphrase Find a wow text and tweak it. Choose from four options for the appropriate tone for your text.",
+                    "features": ""
+                },
+                "Quillbot Paraphraser": {
+                    "url": "https://aiinfinity.blogspot.com/p/paraphraserquillbot.html",
+                    "definition": "QuillBot\u2019s AI-powered paraphrasing tool will enhance your writing.",
+                    "features": ""
+                },
+                "Rephrasely": {
+                    "url": "https://aiinfinity.blogspot.com/p/paraphraserrephrasely.html",
+                    "definition": "Your words and thoughts matter, and we\u2019ve designed our Rephrasely to ensure find the best words to match your expression.",
+                    "features": ""
+                },
+                "WordAI": {
+                    "url": "https://aiinfinity.blogspot.com/p/paraphraserwordai.html",
+                    "definition": "WordAi understands the meaning of each sentence, then rewrites it from scratch while optimizing for uniqueness and readability.",
+                    "features": ""
+                },
+                "WordfixerBot": {
+                    "url": "https://aiinfinity.blogspot.com/p/paraphraserwordfixerbot.html",
+                    "definition": "WordfixerBot\u2019s Paraphrasing Tool is the perfect tool to help you quickly and accurately rephrase any text.",
+                    "features": ""
+                },
+                "Yaara AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/paraphraseryaara-ai.html",
+                    "definition": "Your go-to paraphrasing tool for unique and high-performing content.",
+                    "features": ""
+                }
+            },
+            "Personalised Video:": {
+                "Bhuman": {
+                    "url": "https://aiinfinity.blogspot.com/p/personalised-videobhuman.html",
+                    "definition": "BHuman\u2019s AI Studio enables human connections at scale with personalized video.",
+                    "features": ""
+                },
+                "Colossyan": {
+                    "url": "https://aiinfinity.blogspot.com/p/personalised-videocolossyan.html",
+                    "definition": "Create videos with AI actors.",
+                    "features": ""
+                },
+                "InVideo": {
+                    "url": "https://aiinfinity.blogspot.com/p/personalised-videoinvideo.html",
+                    "definition": "The fastest, easiest way to create pro-quality videos.",
+                    "features": ""
+                },
+                "Maverick": {
+                    "url": "https://aiinfinity.blogspot.com/p/personalised-videomaverick.html",
+                    "definition": "Maverick uses AI-generated video to help ecommerce stores have personalized interactions with each of their customers across their journey.",
+                    "features": ""
+                },
+                "Rephrase": {
+                    "url": "https://aiinfinity.blogspot.com/p/personalised-videorephrase.html",
+                    "definition": "create digital avatars of real humans to produce hyper-personalized videos at scale, helping businesses communicate with their stakeholders effectively.",
+                    "features": ""
+                },
+                "Tavus": {
+                    "url": "https://aiinfinity.blogspot.com/p/personalised-videotavus.html",
+                    "definition": "Tavus is the only video personalization platform with the power to take what you record and automatically transform it into countless AI-generated videos.",
+                    "features": ""
+                },
+                "Vidyo": {
+                    "url": "https://aiinfinity.blogspot.com/p/personalised-videovidyo.html",
+                    "definition": "Create social ready short clips from your long videos with AI.",
+                    "features": ""
+                },
+                "Windsor": {
+                    "url": "https://aiinfinity.blogspot.com/p/personalised-videowindsor.html",
+                    "definition": "Record one video and use Windsor\u2019s AI platform to send millions of personalized videos to your customers.",
+                    "features": ""
+                }
+            },
+            "Presentation:": {
+                "Beutiful AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/presentationbeutiful-ai.html",
+                    "definition": "Presentation software that designs for you.",
+                    "features": ""
+                },
+                "GPT for Slides": {
+                    "url": "https://aiinfinity.blogspot.com/p/presentationgpt-for-slides.html",
+                    "definition": "Generate beautiful presentations in seconds for free with GPT.",
+                    "features": ""
+                },
+                "Magic Slides": {
+                    "url": "https://aiinfinity.blogspot.com/p/presentationmagic-slides.html",
+                    "definition": "Your Ideas into Professional Presentations in Seconds with AI",
+                    "features": ""
+                },
+                "Motionit": {
+                    "url": "https://aiinfinity.blogspot.com/p/presentationmotionit.html",
+                    "definition": "MotionIt.ai creates professional slides & videos for pitch decks, conference presentations & more.",
+                    "features": ""
+                },
+                "Powerpresent AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/presentationpowerpresent-ai.html",
+                    "definition": "Create amazing presentations 10X faster with AI.",
+                    "features": ""
+                },
+                "SlidesAI": {
+                    "url": "https://aiinfinity.blogspot.com/p/presentationslidesai.html",
+                    "definition": "Create Presentation Slides with AI\u00a0in seconds.",
+                    "features": ""
+                }
+            },
+            "Productivity:": {
+                "Albus": {
+                    "url": "https://aiinfinity.blogspot.com/p/productivityalbus.html",
+                    "definition": "Albus is not just an Assistant He is a Friend/mentor.",
+                    "features": ""
+                },
+                "Buster": {
+                    "url": "https://aiinfinity.blogspot.com/p/productivitybuster.html",
+                    "definition": "Ask any data question in plain english. Get answers in the form of charts, graphs, tables, etc - instantly.",
+                    "features": ""
+                },
+                "ChatGPT Chrome Extension": {
+                    "url": "https://aiinfinity.blogspot.com/p/productivitychatgpt-chrome-extension.html",
+                    "definition": "Display ChatGPT response alongside Google, Bing, DuckDuckGo Search results.",
+                    "features": ""
+                },
+                "ChatGPT Writer": {
+                    "url": "https://aiinfinity.blogspot.com/p/productivitychatgpt-writer.html",
+                    "definition": "Free Chrome extension to generate entire emails and messages using ChatGPT AI.",
+                    "features": ""
+                },
+                "Cogniflow": {
+                    "url": "https://aiinfinity.blogspot.com/p/productivitycogniflow.html",
+                    "definition": "Boost your productivity. Integrate AI into your workflow.",
+                    "features": ""
+                },
+                "DeepL": {
+                    "url": "https://aiinfinity.blogspot.com/p/productivitydeepl.html",
+                    "definition": "Millions translate with DeepL every day.",
+                    "features": ""
+                },
+                "Ipso AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/productivityipso-ai.html",
+                    "definition": "AI assistant that manages calendars & drafts emails based on your unique preferences, powered by GPT-3.",
+                    "features": ""
+                },
+                "Maester App": {
+                    "url": "https://aiinfinity.blogspot.com/p/productivitymaester.html",
+                    "definition": "Unlock the full potential of GPT-3 with our intuitive Template Engine.Quickly generate custom output tailored to your repeated needs and share them with the world.",
+                    "features": ""
+                },
+                "Mem AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/productivitymem-ai.html",
+                    "definition": "Mem is the world\u2019s first AI-powered workspace that\u2019s personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.",
+                    "features": ""
+                },
+                "Merlin": {
+                    "url": "https://aiinfinity.blogspot.com/p/productivitymerlin.html",
+                    "definition": "Open AI\u2019s GPT powered extension to use anywhere!",
+                    "features": ""
+                },
+                "Nanonets": {
+                    "url": "https://aiinfinity.blogspot.com/p/productivitynanonets.html",
+                    "definition": "Automate Manual Data Entry Using AI.Capture data from documents instantly. Reduce turn around times and the manual effort required.",
+                    "features": ""
+                },
+                "Notion AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/productivitynotion-ai.html",
+                    "definition": "Leverage the limitless power of AI in any Notion page. Write faster, think bigger, and augment your creativity. Like magic!",
+                    "features": ""
+                },
+                "Personal AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/productivitypersonal-ai.html",
+                    "definition": "Built-in Personal AI messaging for an everlasting connection with the people and ideas in your world.",
+                    "features": ""
+                },
+                "Puzzle": {
+                    "url": "https://aiinfinity.blogspot.com/p/productivitypuzzle.html",
+                    "definition": "The AI-powered glossary for your end customers/community.",
+                    "features": ""
+                },
+                "Rationale": {
+                    "url": "https://aiinfinity.blogspot.com/p/productivityrationale.html",
+                    "definition": "A revolutionary Al to assist business owners, managers, and individuals in making tough decisions.",
+                    "features": ""
+                },
+                "Reclaim AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/productivityreclaim-ai.html",
+                    "definition": "Reclaim creates the perfect schedule for your team\u2019s priorities, and saves up to 40% of the workweek with intelligent, flexible and adaptive time orchestration.",
+                    "features": ""
+                },
+                "Scale": {
+                    "url": "https://aiinfinity.blogspot.com/p/productivityscale.html",
+                    "definition": "Better data leads to more performant models. Performant models lead to faster deployment. Deliver value from your AI investments faster with better data.",
+                    "features": ""
+                },
+                "Supernormal": {
+                    "url": "https://aiinfinity.blogspot.com/p/productivitysupernormal.html",
+                    "definition": "Supernormal helps you create amazing meeting notes without lifting a finger.",
+                    "features": ""
+                },
+                "TinyWow": {
+                    "url": "https://aiinfinity.blogspot.com/p/productivitytinywow.html",
+                    "definition": "PDF, video, image and other online tools to make your life easier.",
+                    "features": ""
+                },
+                "typly": {
+                    "url": "https://aiinfinity.blogspot.com/p/productivitytyply.html",
+                    "definition": "Typly is the ultimate cutting edge AI keyboard that helps you to answer all your messages with a single click!",
+                    "features": ""
+                },
+                "Xembly": {
+                    "url": "https://aiinfinity.blogspot.com/p/productivityxembly.html",
+                    "definition": "An automated chief of staff to handle the tasks that slow you down.",
+                    "features": ""
+                }
+            },
+            "Prompts:": {
+                "Dallelist": {
+                    "url": "https://aiinfinity.blogspot.com/p/promptsdallelist.html",
+                    "definition": "Select category then copy it!",
+                    "features": ""
+                },
+                "Eye for Al": {
+                    "url": "https://aiinfinity.blogspot.com/p/promptseye-for-al.html",
+                    "definition": "Visual \u201cprompt builder\u201d to craft complex prompts, easily.",
+                    "features": ""
+                },
+                "Img2prompt": {
+                    "url": "https://aiinfinity.blogspot.com/p/promptsimg2prompt.html",
+                    "definition": "Get an approximate text prompt, with style, matching an image.",
+                    "features": ""
+                },
+                "Jrnylist": {
+                    "url": "https://aiinfinity.blogspot.com/p/promptsjrnylist.html",
+                    "definition": "Same as dallelist but advanced version.",
+                    "features": ""
+                },
+                "Krea": {
+                    "url": "https://aiinfinity.blogspot.com/p/promptskrea.html",
+                    "definition": "Generative visuals for everyone.",
+                    "features": ""
+                },
+                "Openart": {
+                    "url": "https://aiinfinity.blogspot.com/p/promptsopenart.html",
+                    "definition": "Search 10M+ of prompts, and generate AI Art via Stable Diffusion, DALL\u00b7E 2.",
+                    "features": ""
+                },
+                "PromptBase": {
+                    "url": "https://aiinfinity.blogspot.com/p/promptspromptbase.html",
+                    "definition": "DALL\u00b7E, GPT-3, Midjourney, Stable Diffusion Prompt Marketplace.",
+                    "features": ""
+                },
+                "PromptHero": {
+                    "url": "https://aiinfinity.blogspot.com/p/promptsprompthero.html",
+                    "definition": "Search millions of art images by AI models like DALL-E, Stable Diffusion, Midjourney\u2026",
+                    "features": ""
+                },
+                "Promptist": {
+                    "url": "https://aiinfinity.blogspot.com/p/promptspromptist.html",
+                    "definition": "Promptist is a prompt interface for Stable Diffusion v1-4 that optimizes user input into model-preferred prompts.",
+                    "features": ""
+                },
+                "PromptLayer": {
+                    "url": "https://aiinfinity.blogspot.com/p/promptspromptlayer.html",
+                    "definition": "Maintain a log of your prompts and OpenAI API requests. Track, debug, and replay old completions.",
+                    "features": ""
+                },
+                "PromtBox": {
+                    "url": "https://aiinfinity.blogspot.com/p/promptspromtbox.html",
+                    "definition": "- Beautifully store your prompts!",
+                    "features": ""
+                },
+                "Public Prompts": {
+                    "url": "https://aiinfinity.blogspot.com/p/promptspublic-prompts.html",
+                    "definition": "Collection of \u200e High Quality/Free/Public Prompts!",
+                    "features": ""
+                },
+                "Pyttipanna": {
+                    "url": "https://aiinfinity.blogspot.com/p/promptspyttipanna.html",
+                    "definition": "Pyttipanna is an interface for Pytti 5. It allows you to structure, narrate and experiment with prompts for video creation.",
+                    "features": ""
+                }
+            },
+            "Real Estate:": {
+                "AI Room Planner": {
+                    "url": "https://aiinfinity.blogspot.com/p/real-estateai-room-planner.html",
+                    "definition": "Get hundreds of interior design ideas for your room - free with no limit.",
+                    "features": ""
+                },
+                "CoolAlid": {
+                    "url": "https://aiinfinity.blogspot.com/p/real-estatecoolalid.html",
+                    "definition": "Interior design ideas using AI.",
+                    "features": ""
+                },
+                "GetFloorPlan": {
+                    "url": "https://aiinfinity.blogspot.com/p/real-estategetfloorplan.html",
+                    "definition": "\u0412oost your sales in real estate!",
+                    "features": ""
+                },
+                "InteriorAI": {
+                    "url": "https://aiinfinity.blogspot.com/p/real-estateinteriorai.html",
+                    "definition": "Interior Design by AI!",
+                    "features": ""
+                },
+                "Maket": {
+                    "url": "https://aiinfinity.blogspot.com/p/real-estatemaket.html",
+                    "definition": "Generative Design for Architectural Planning.",
+                    "features": ""
+                },
+                "RoomGPT": {
+                    "url": "https://aiinfinity.blogspot.com/p/search-engineroomgpt.html",
+                    "definition": "Generating dream rooms using AI for everyone.",
+                    "features": ""
+                }
+            },
+            "Research:": {
+                "Consensus": {
+                    "url": "https://aiinfinity.blogspot.com/p/researchconsensus.html",
+                    "definition": "Evidence-Based Answers, Faster!",
+                    "features": ""
+                },
+                "Elicit": {
+                    "url": "https://aiinfinity.blogspot.com/p/researchelicit.html",
+                    "definition": "The AI Research Assistant! Elicit uses language models to help you automate research workflows, like parts of literature review.",
+                    "features": ""
+                },
+                "Scispace": {
+                    "url": "https://aiinfinity.blogspot.com/p/researchscispace.html",
+                    "definition": "Your AI Copilot to decode any research paper.",
+                    "features": ""
+                },
+                "Scite": {
+                    "url": "https://aiinfinity.blogspot.com/p/researchscite.html",
+                    "definition": "scite is a Brooklyn-based startup that helps researchers better discover and understand research articles through Smart Citations.",
+                    "features": ""
+                }
+            },
+            "Search Engine:": {
+                "Andi": {
+                    "url": "https://aiinfinity.blogspot.com/p/search-engineandi.html",
+                    "definition": "Your smart search assistant.",
+                    "features": ""
+                },
+                "ChatGPT": {
+                    "url": "https://aiinfinity.blogspot.com/p/search-enginechatgpt.html",
+                    "definition": "ChatGPT is an AI-based conversational agent designed to provide answers to a wide range of questions on various topics.",
+                    "features": ""
+                },
+                "Chatsonic": {
+                    "url": "https://aiinfinity.blogspot.com/p/search-enginechatsonic.html",
+                    "definition": "ChatGPT Alternative Built With Superpowers!",
+                    "features": ""
+                },
+                "Crowdview": {
+                    "url": "https://aiinfinity.blogspot.com/p/search-enginecrowdview.html",
+                    "definition": "Forum Search Engine!",
+                    "features": ""
+                },
+                "FAQx": {
+                    "url": "https://aiinfinity.blogspot.com/p/search-enginefaqx.html",
+                    "definition": "Say Goodbye to Endless Searches, Get Facts on FAQx.",
+                    "features": ""
+                },
+                "Metaphor": {
+                    "url": "https://aiinfinity.blogspot.com/p/search-enginemetaphor.html",
+                    "definition": "Metaphor is a search engine that predicts the next link, similar to the way that GPT-3 predicts the next word.",
+                    "features": ""
+                },
+                "Neeva": {
+                    "url": "https://aiinfinity.blogspot.com/p/search-engineneeva.html",
+                    "definition": "Search Powered by\u00a0AI! Get Answers.Not Ads.",
+                    "features": ""
+                },
+                "Perplexity AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/search-engineperplexity-ai.html",
+                    "definition": "Perplexity AI unlocks the power of knowledge with information discovery and sharing.",
+                    "features": ""
+                },
+                "Phind": {
+                    "url": "https://aiinfinity.blogspot.com/p/search-enginephind.html",
+                    "definition": "The AI search engine for developers.",
+                    "features": ""
+                },
+                "You": {
+                    "url": "https://aiinfinity.blogspot.com/p/search-engineyou.html",
+                    "definition": "The AI Search Engine You Control",
+                    "features": ""
+                }
+            },
+            "SEO:": {
+                "Compar": {
+                    "url": "https://aiinfinity.blogspot.com/p/seocompar.html",
+                    "definition": "AI Powered Content Analyses.",
+                    "features": ""
+                },
+                "CTRify": {
+                    "url": "https://aiinfinity.blogspot.com/p/seoctrify.html",
+                    "definition": "AI-Powered SEO Action Platform.",
+                    "features": ""
+                },
+                "Genie AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/seogenie-ai.html",
+                    "definition": "GENERATE AI-POWERED METADATA! Title, Description, Tags, and Thumbnail Idea for Various Forms of Digital Content",
+                    "features": ""
+                },
+                "Keywrds AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/seokeywrds-ai.html",
+                    "definition": "Find keywords your competition can only dream of.",
+                    "features": ""
+                },
+                "Neuronwriter": {
+                    "url": "https://aiinfinity.blogspot.com/p/seoneuronwriter.html",
+                    "definition": "Optimize your website content so Google adores it.",
+                    "features": ""
+                },
+                "Scalenut": {
+                    "url": "https://aiinfinity.blogspot.com/p/seoscalenut.html",
+                    "definition": "Scale Traffic from Search.",
+                    "features": ""
+                },
+                "SEO GPT": {
+                    "url": "https://aiinfinity.blogspot.com/p/seoseo-gpt.html",
+                    "definition": "advanced AI technology generates unique, keyword-optimized content that is specifically tailored to your target audience.",
+                    "features": ""
+                },
+                "Vidlq": {
+                    "url": "https://aiinfinity.blogspot.com/p/seovidlq.html",
+                    "definition": "Designed to boost your YouTube views.",
+                    "features": ""
+                }
+            },
+            "Social Media Assistant:": {
+                "AI Social Bio": {
+                    "url": "https://aiinfinity.blogspot.com/p/smaai-social-bio.html",
+                    "definition": "Your social media bio, created by artificial intelligence.",
+                    "features": ""
+                },
+                "Contentada": {
+                    "url": "https://aiinfinity.blogspot.com/p/smacontentada.html",
+                    "definition": "Create the content your audience wants,from content you\u2019ve already made.",
+                    "features": ""
+                },
+                "Editby": {
+                    "url": "https://aiinfinity.blogspot.com/p/smaeditby.html",
+                    "definition": "Unlock creativity and grow your Twitter audience with AI.",
+                    "features": ""
+                },
+                "FeedHive": {
+                    "url": "https://aiinfinity.blogspot.com/p/smafeedhive.html",
+                    "definition": "Create, schedule, publish, and easily manage your social media content at scale with FeedHive\u2019s AI-powered platform.",
+                    "features": ""
+                },
+                "Graham AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/smagraham-ai.html",
+                    "definition": "Tweet like a genius tech influencer, generated by AI.",
+                    "features": ""
+                },
+                "InstaSalesAI": {
+                    "url": "https://aiinfinity.blogspot.com/p/smainstasalesai.html",
+                    "definition": "Unlock your Instagram.Get more organic traffic.Build your credibility and maximize your sales with fresh content using AI.",
+                    "features": ""
+                },
+                "MagicThumbnails": {
+                    "url": "https://aiinfinity.blogspot.com/p/smamagicthumbnails.html",
+                    "definition": "Generate YouTube Thumbnails with AI.",
+                    "features": ""
+                },
+                "Munch": {
+                    "url": "https://aiinfinity.blogspot.com/p/smamunch.html",
+                    "definition": "Go Viral Using Your Existing Content Automatically.",
+                    "features": ""
+                },
+                "Ocoya": {
+                    "url": "https://aiinfinity.blogspot.com/p/smaocoya.html",
+                    "definition": "Social Media Content 10x Faster.",
+                    "features": ""
+                },
+                "Predis": {
+                    "url": "https://aiinfinity.blogspot.com/p/smapredis.html",
+                    "definition": "Create Stunning Social Media Video/Reels Posts in Seconds!",
+                    "features": ""
+                },
+                "Repl AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/smarepl-ai.html",
+                    "definition": "Get 10x growth with AI-generated replies.",
+                    "features": ""
+                },
+                "SocialBu": {
+                    "url": "https://aiinfinity.blogspot.com/p/smasocialbu.html",
+                    "definition": "Easy and Effective Social Media Management Solution.",
+                    "features": ""
+                },
+                "Spatial": {
+                    "url": "https://aiinfinity.blogspot.com/p/smaspatial.html",
+                    "definition": "Predict and influence customer behavior with the world\u2019s first real-time social media segmentation system.",
+                    "features": ""
+                },
+                "Tweet Hunter": {
+                    "url": "https://aiinfinity.blogspot.com/p/smatweet-hunter.html",
+                    "definition": "BUILD & MONETIZE YOUR TWITTER AUDIENCE FAST.",
+                    "features": ""
+                },
+                "TweetEmote": {
+                    "url": "https://aiinfinity.blogspot.com/p/smatweetemote.html",
+                    "definition": "The AI-Powered Tweet Assistant.",
+                    "features": ""
+                }
+            },
+            "Spreadsheets:": {
+                "Arcwise": {
+                    "url": "https://aiinfinity.blogspot.com/p/spreadsheetsarcwise.html",
+                    "definition": "Your\u00a0copilot\u00a0for Google Sheets Instantly understand, clean, and ingest data in Sheets with the AI behind ChatGPT.",
+                    "features": ""
+                },
+                "Charm": {
+                    "url": "https://aiinfinity.blogspot.com/p/spreadsheetscharm.html",
+                    "definition": "Eliminate mundane spreadsheet work.",
+                    "features": ""
+                },
+                "Excel Formula Bot": {
+                    "url": "https://excelformulabot.com/",
+                    "definition": "Transform your text instructions into Excel formulas in seconds with the help of AI for free.",
+                    "features": ""
+                },
+                "Flowshot": {
+                    "url": "https://aiinfinity.blogspot.com/p/spreadsheets-flowshot.html",
+                    "definition": "Instantly upgrade your Google Sheets workflow!",
+                    "features": ""
+                },
+                "Formula Generator": {
+                    "url": "https://aiinfinity.blogspot.com/p/spreadsheets-formula-generator.html",
+                    "definition": "Easily generate excel formulas using our free AI toolkit powered by fine-tuned GPT models.",
+                    "features": ""
+                },
+                "Goodlookup": {
+                    "url": "https://www.goodlookup.com/",
+                    "definition": "Goodlookup is a smart function for spreadsheet users.",
+                    "features": ""
+                },
+                "Numerous": {
+                    "url": "https://aiinfinity.blogspot.com/p/spreadsheetsnumerous-ai.html",
+                    "definition": "Numerous can reformat and categorize your cells, generate formulas,and let you access ChatGPT directly inside your sheets.",
+                    "features": ""
+                },
+                "PromptLoop": {
+                    "url": "https://aiinfinity.blogspot.com/p/spreadsheets-promptloop.html",
+                    "definition": "Use PromptLoop in Google Sheets to transform, extract, or summarize any text with a simple formula that works just like SUM or VLOOKUP and generates answers with powerful AI models.",
+                    "features": ""
+                },
+                "Sheet AI": {
+                    "url": "https://www.sheetai.app/",
+                    "definition": "ChatGPT inside\u00a0Sheets.",
+                    "features": ""
+                },
+                "Sheet+": {
+                    "url": "https://sheetplus.ai/",
+                    "definition": "Write Google Sheets & Excel formulas\u00a010x faster\u00a0with AI.",
+                    "features": ""
+                },
+                "SheetGod": {
+                    "url": "https://www.boloforms.com/sheetgod/",
+                    "definition": "The AI Tool That Turns English Into Excel Formulas In Seconds.",
+                    "features": ""
+                }
+            },
+            "Startup Tools:": {},
+            "Summarizer:": {
+                "Bearly": {
+                    "url": "https://aiinfinity.blogspot.com/p/summarybearly.html",
+                    "definition": "Drop in research papers, pdfs, articles, word docs and more to get a thorough summary of the content.",
+                    "features": ""
+                },
+                "Detengle": {
+                    "url": "https://aiinfinity.blogspot.com/p/summarydetengle.html",
+                    "definition": "Summarize any legal doc/email/video/audio/article/book etc so you can focus on what matters.",
+                    "features": ""
+                },
+                "ExplainThis": {
+                    "url": "https://aiinfinity.blogspot.com/p/summaryexplainthis.html",
+                    "definition": "Your assistant on the internet to explain key concepts and understand what you\u2019re reading.",
+                    "features": ""
+                },
+                "Genei": {
+                    "url": "https://aiinfinity.blogspot.com/p/summarygenei.html",
+                    "definition": "Automatically summarise background reading and produce blogs, articles, and reports faster.",
+                    "features": ""
+                },
+                "Otter AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/summaryotter-ai.html",
+                    "definition": "Otter is your AI assistant that writes and summarizes meeting notes for your team, 30x faster than you can.",
+                    "features": ""
+                },
+                "Scholarcy": {
+                    "url": "https://aiinfinity.blogspot.com/p/summaryscholarcy.html",
+                    "definition": "The AI-powered article summarizer.",
+                    "features": ""
+                },
+                "Summari": {
+                    "url": "https://aiinfinity.blogspot.com/p/summarysummari.html",
+                    "definition": "Useful summaries delivered thoughtfully to your audience.",
+                    "features": ""
+                },
+                "Summarize Tech": {
+                    "url": "https://aiinfinity.blogspot.com/p/summarysummarize-tech.html",
+                    "definition": "Get a summary of any long YouTube video, like a lecture, live event or a government meeting. Powered by GPT-3.",
+                    "features": ""
+                },
+                "Summate": {
+                    "url": "https://aiinfinity.blogspot.com/p/summarysummate.html",
+                    "definition": "Quickly summarize web articles with OpenAI.",
+                    "features": ""
+                },
+                "SummerEyes": {
+                    "url": "https://aiinfinity.blogspot.com/p/summarysummereyes.html",
+                    "definition": "Summarize any text on the internet in one click.",
+                    "features": ""
+                },
+                "theGist": {
+                    "url": "https://aiinfinity.blogspot.com/p/summarythegist.html",
+                    "definition": "Summarize any Slack channel or thread in one click.",
+                    "features": ""
+                },
+                "TLDR this": {
+                    "url": "https://aiinfinity.blogspot.com/p/summarytldr-this.html",
+                    "definition": "TLDR This helps you summarize any piece of text into concise, easy to digest content so you can free yourself from information overload.",
+                    "features": ""
+                },
+                "Upword": {
+                    "url": "https://aiinfinity.blogspot.com/p/summaryupword.html",
+                    "definition": "Create online summary docs.Grow your knowledge.",
+                    "features": ""
+                }
+            },
+            "Text To Speech:": {
+                "Ad Auris": {
+                    "url": "https://aiinfinity.blogspot.com/p/text2speechad-auris.html",
+                    "definition": "Create a playlist of articles and listen to them on Spotify, Apple Podcasts, and Google Podcasts.",
+                    "features": ""
+                },
+                "Article Audio": {
+                    "url": "https://aiinfinity.blogspot.com/p/text2speech-article-audio.html",
+                    "definition": "Convert Articles To Audio.",
+                    "features": ""
+                },
+                "Ask my Book": {
+                    "url": "https://aiinfinity.blogspot.com/p/text2speechask-my-book.html",
+                    "definition": "This is an experiment in using AI to make my book\u2019s content more accessible.",
+                    "features": ""
+                },
+                "Audioread": {
+                    "url": "https://aiinfinity.blogspot.com/p/text2speechaudioread.html",
+                    "definition": "Turn your reads\ninto podcasts.Listen to any article, PDF, email,etc in your podcast app.",
+                    "features": ""
+                },
+                "ConvAI": {
+                    "url": "https://aiinfinity.blogspot.com/p/text2speechconvai.html",
+                    "definition": "Easy to use, Conversational AI APIs for Speech Recognition, Language Understanding and generation, and Text To Speech to design your games and speech enabled applications.",
+                    "features": ""
+                },
+                "Coqui": {
+                    "url": "https://aiinfinity.blogspot.com/p/text2speechcoqui.html",
+                    "definition": "Direct emotive, generative AI voices for video games, post-production, dubbing and much more\u2026",
+                    "features": ""
+                },
+                "Descript": {
+                    "url": "https://aiinfinity.blogspot.com/p/text2speechdescript.html",
+                    "definition": "Descript\u2019s Overdub lets you create a text-to-speech model of your voice or select one from our ultra-realistic stock voices.",
+                    "features": ""
+                },
+                "ElevenLabs": {
+                    "url": "https://aiinfinity.blogspot.com/p/text2speechelevenlabs.html",
+                    "definition": "The most realistic and versatile AI speech software, ever. Eleven brings the most compelling, rich and lifelike voices to creators and publishers seeking the ultimate tools for storytelling.",
+                    "features": ""
+                },
+                "FakeYou": {
+                    "url": "https://aiinfinity.blogspot.com/p/text2speechfakeyou.html",
+                    "definition": "Use FakeYou deep fake tech to say stuff with your favorite characters.",
+                    "features": ""
+                },
+                "Listnr": {
+                    "url": "https://aiinfinity.blogspot.com/p/text2speechlistnr.html",
+                    "definition": "AI enabled Text to Voice Generator AI Voice Generator with over 600+ voiceovers in 80+ language.",
+                    "features": ""
+                },
+                "Murf AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/text2speechmurfai.html",
+                    "definition": "Go from text to speech with a versatile AI voice generator.",
+                    "features": ""
+                },
+                "Play ht": {
+                    "url": "https://aiinfinity.blogspot.com/p/text2speechplay-ht.html",
+                    "definition": "Generate realistic Text to Speech (TTS) audio using our online AI Voice Generator and the best synthetic voices. Instantly convert text in to natural-sounding speech and download as MP3 and WAV audio files.",
+                    "features": ""
+                },
+                "Resemble AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/text2speech-resemble-ai.html",
+                    "definition": "AI Voice Generator that sounds real. Create speech-to-speech and text-to-speech AI voices with Resemble\u2019s realtime voice cloning software.",
+                    "features": ""
+                },
+                "Speechify": {
+                    "url": "https://aiinfinity.blogspot.com/p/text2speechspeechify.html",
+                    "definition": "Power through docs, articles, PDFs, email \u2014 anything you read \u2014 by listening with our leading text-to-speech reader.",
+                    "features": ""
+                },
+                "Symbl AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/text2speechsymbl-ai.html",
+                    "definition": "Integrate real-time speech-to-text and context understanding, powered by advanced deep learning models, to enable live captioning, track user intents, generate summaries and more from unstructured conversation data.",
+                    "features": ""
+                },
+                "Uberduck": {
+                    "url": "https://aiinfinity.blogspot.com/p/text2speechuberduck.html",
+                    "definition": "Make AI voiceovers with 5,000+ expressive voices.",
+                    "features": ""
+                },
+                "Wellsaidlabs": {
+                    "url": "https://aiinfinity.blogspot.com/p/text2speechwellsaidlabs.html",
+                    "definition": "Beautiful voices at your fingertips with text-to-speech that captivates.",
+                    "features": ""
+                }
+            },
+            "Transcriber:": {
+                "AssembleAI": {
+                    "url": "https://aiinfinity.blogspot.com/p/transcriberassembleai.html",
+                    "definition": "Access powerful AI models to transcribe and understand speech.",
+                    "features": ""
+                },
+                "Contentfries": {
+                    "url": "https://aiinfinity.blogspot.com/p/transcribercontentfries.html",
+                    "definition": "Repurpose your long-form videos (we call them potatoes) into crispy bite-sized content fries. Create contextual content for weeks or months ahead faster than ever before.",
+                    "features": ""
+                },
+                "Fireflies AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/transcriberfireflies-ai.html",
+                    "definition": "Fireflies.ai helps your team record, transcribe, search, and analyze voice conversations.",
+                    "features": ""
+                },
+                "Free Subtitle AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/transcriberfree-subtitle-ai.html",
+                    "definition": "Video to Subtitle Converter.",
+                    "features": ""
+                },
+                "Noty AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/transcribernoty-ai.html",
+                    "definition": "Bye-Bye notepads! We\u2019ve got Noty.ai, an AI-powered meeting assistant - transforming meetings into Transcriptions.",
+                    "features": ""
+                },
+                "Peech": {
+                    "url": "https://aiinfinity.blogspot.com/p/transcriberpeech.html",
+                    "definition": "Automatically transcribe, edit, repurpose, and brand your video content.",
+                    "features": ""
+                },
+                "Steno": {
+                    "url": "https://aiinfinity.blogspot.com/p/transcribersteno.html",
+                    "definition": "Your favorite podcasts, fully transcribed.",
+                    "features": ""
+                },
+                "Supertranslate": {
+                    "url": "https://aiinfinity.blogspot.com/p/transcribersupertranslate.html",
+                    "definition": "The fastest way to add English subtitles to any language video Powered by OpenAI\u2019s Whisper.",
+                    "features": ""
+                },
+                "Type Studio": {
+                    "url": "https://aiinfinity.blogspot.com/p/transcribertype-studio.html",
+                    "definition": "Type Studio is a text-based video editor that takes your video and transcribes it into text automatically.",
+                    "features": ""
+                },
+                "Whisper Memos": {
+                    "url": "https://aiinfinity.blogspot.com/p/transcriberwhisper-memos.html",
+                    "definition": "Whisper Memos uses the latest AI technology to turn your voice memos into accurate transcripts.",
+                    "features": ""
+                },
+                "YouTube Transcript": {
+                    "url": "https://aiinfinity.blogspot.com/p/transcriberyoutube-transcript.html",
+                    "definition": "Enter Youtube Video URL and get a transcript text.",
+                    "features": ""
+                }
+            },
+            "Video Editing:": {
+                "Clickdrop": {
+                    "url": "https://aiinfinity.blogspot.com/p/video-editingclickdrop.html",
+                    "definition": "Create stunning visuals in seconds",
+                    "features": ""
+                },
+                "Dubverse": {
+                    "url": "https://aiinfinity.blogspot.com/p/video-editingdubverse.html",
+                    "definition": "Easiest (and magical) way to Dub videos.",
+                    "features": ""
+                },
+                "Elai": {
+                    "url": "https://aiinfinity.blogspot.com/p/video-editingelai.html",
+                    "definition": "Build customized AI videos with a presenter in minutes without using a camera, studio and a greenscreen.",
+                    "features": ""
+                },
+                "Gling": {
+                    "url": "https://aiinfinity.blogspot.com/p/video-editinggling.html",
+                    "definition": "Our AI will cut silences and bad takes for you so you can focus on your YouTube videos.",
+                    "features": ""
+                },
+                "Papercup": {
+                    "url": "https://aiinfinity.blogspot.com/p/video-editingpapercup.html",
+                    "definition": "Discover the faster, more affordable way to go global with your existing video content using AI dubbing.",
+                    "features": ""
+                },
+                "Perfectly Clear Video": {
+                    "url": "https://aiinfinity.blogspot.com/p/video-editingperfectly-clear-video.html",
+                    "definition": "Power Your Video with Perfectly Clear\u2019s AI Automatic Video Enhancement.",
+                    "features": ""
+                },
+                "Pictory": {
+                    "url": "https://aiinfinity.blogspot.com/p/video-editingpictory.html",
+                    "definition": "Automatically create short, highly-sharable branded videos from your long form content.",
+                    "features": ""
+                },
+                "Runwayml": {
+                    "url": "https://aiinfinity.blogspot.com/p/video-editingrunwayml.html",
+                    "definition": "With 30+ AI Magic Tools, real-time video editing, collaboration, and more, Runway is your next-generation content creation suite.",
+                    "features": ""
+                },
+                "Topaz Video AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/video-editingtopaz-video-ai.html",
+                    "definition": "Unlimited access to the world\u2019s leading production-grade neural networks for video upscaling, deinterlacing, motion interpolation, and shake stabilization.",
+                    "features": ""
+                },
+                "Unscreen": {
+                    "url": "https://aiinfinity.blogspot.com/p/video-editingunscreen.html",
+                    "definition": "Remove Video Background.",
+                    "features": ""
+                },
+                "Veed": {
+                    "url": "https://aiinfinity.blogspot.com/p/video-editingveed.html",
+                    "definition": "Your audience prefers video. Wow them with VEED, the fastest and easiest way to make professional-quality videos.",
+                    "features": ""
+                },
+                "Xpression Camera": {
+                    "url": "https://aiinfinity.blogspot.com/p/video-editingxpression-camera.html",
+                    "definition": "The only real-time generative AI app for video chatting and live streaming.",
+                    "features": ""
+                }
+            },
+            "Video Generator:": {
+                "Colossyan": {
+                    "url": "https://aiinfinity.blogspot.com/p/video-generatorcolossyan.html",
+                    "definition": "Simply type in your text and have a video ready in 70+ languages within minutes.",
+                    "features": ""
+                },
+                "Studio (D-ID)": {
+                    "url": "https://aiinfinity.blogspot.com/p/video-generatorstudio-d-id.html",
+                    "definition": "ID) - You can now create videos of Digital Humans at an unbelievable scale.Combine your ideas with our tech to create astonishing visuals that are high quality and customized to your needs.",
+                    "features": ""
+                },
+                "Fliki": {
+                    "url": "https://aiinfinity.blogspot.com/p/video-generatorfliki.html",
+                    "definition": "Turn text into videos with AI voices.",
+                    "features": ""
+                },
+                "Hourone": {
+                    "url": "https://aiinfinity.blogspot.com/p/video-generatorhourone.html",
+                    "definition": "Boost your content within minutes by converting text into highly engaging videos with virtual human presenters.",
+                    "features": ""
+                },
+                "InVideo": {
+                    "url": "https://aiinfinity.blogspot.com/p/video-generatorinvideo.html",
+                    "definition": "Convert your script, article, or blog into video in minutes using InVideo\u2019s AI based Text-to-Video editor.",
+                    "features": ""
+                },
+                "Movio": {
+                    "url": "https://aiinfinity.blogspot.com/p/video-generatormovio.html",
+                    "definition": "Turn text into spokesperson video by typing and clicking.",
+                    "features": ""
+                },
+                "OASIS": {
+                    "url": "https://aiinfinity.blogspot.com/p/video-generatoroasis.html",
+                    "definition": "Create Video With Your Voice, Powered by Generative AI.",
+                    "features": ""
+                },
+                "Opus": {
+                    "url": "https://aiinfinity.blogspot.com/p/video-generatoropus.html",
+                    "definition": "TURNS TEXT TO VIDEO.",
+                    "features": ""
+                },
+                "Phenaki": {
+                    "url": "https://aiinfinity.blogspot.com/p/video-generatorphenaki.html",
+                    "definition": "Realistic video generation from open-domain textual descriptions.",
+                    "features": ""
+                },
+                "Shuffll": {
+                    "url": "https://aiinfinity.blogspot.com/p/video-generatorshuffll.html",
+                    "definition": "With the power of AI, we create videos that people ACTUALLY want to watch.",
+                    "features": ""
+                },
+                "Steve AI": {
+                    "url": "https://aiinfinity.blogspot.com/p/video-generatorsteve-ai.html",
+                    "definition": "With our patented AI technology, you can make professional videos in MINUTES. See the MAGIC happen as the AI picks the right creative media assets for your Video.",
+                    "features": ""
+                },
+                "Synthesia": {
+                    "url": "https://aiinfinity.blogspot.com/p/video-generatorsynthesia.html",
+                    "definition": "Create videos from plain text in minutes.",
+                    "features": ""
+                },
+                "Waymark": {
+                    "url": "https://aiinfinity.blogspot.com/p/video-generatorwaymark.html",
+                    "definition": "Waymark\u2019s AI scans the web for local business data and automatically produces a video based on your brand.",
+                    "features": ""
+                },
+                "Wowto": {
+                    "url": "https://aiinfinity.blogspot.com/p/video-generatorwowto.html",
+                    "definition": "Create how-to videos and host an engaging video knowledge base in minutes.",
+                    "features": ""
+                }
+            }
+        }
+    }
+}
